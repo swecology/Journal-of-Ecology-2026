@@ -1,0 +1,385 @@
+Pot_nr,Species,Species_status,Water_treatment,Soil_origin_site,Replicates,RD,SRL
+1,Erigeron acris,Native,Control,1,1,0.617895217,11.52453222
+2,Erigeron acris,Native,Control,1,2,0.769208044,27.86228267
+3,Erigeron acris,Native,Control,1,3,0.719135383,19.73822825
+4,Erigeron acris,Native,Control,1,4,0.5584952,16.97306529
+5,Erigeron acris,Native,Control,2,5,0.679902967,23.5902277
+6,Erigeron acris,Native,Control,2,6,0.619161777,9.941725301
+7,Erigeron acris,Native,Control,2,7,0.607354481,17.456834
+8,Erigeron acris,Native,Control,2,8,0.562352296,5.750861802
+9,Erigeron acris,Native,Control,3,9,0.616469113,15.37176298
+10,Erigeron acris,Native,Control,3,10,0.714573967,41.94547703
+11,Erigeron acris,Native,Control,3,11,0.633093942,12.06128366
+12,Erigeron acris,Native,Control,3,12,0.620310863,11.12735785
+13,Erigeron acris,Native,Drought,1,1,0.582166148,9.489404144
+14,Erigeron acris,Native,Drought,1,2,0.603957231,10.03385064
+15,Erigeron acris,Native,Drought,1,3,0.574289767,16.0916134
+16,Erigeron acris,Native,Drought,1,4,0.559288685,7.064263375
+17,Erigeron acris,Native,Drought,2,5,0.583344867,8.198501399
+18,Erigeron acris,Native,Drought,2,6,0.593694838,36.89448864
+19,Erigeron acris,Native,Drought,2,7,0.621564988,4.527426709
+20,Erigeron acris,Native,Drought,2,8,NA,NA
+21,Erigeron acris,Native,Drought,3,9,0.575295713,25.68623155
+22,Erigeron acris,Native,Drought,3,10,0.633459331,9.600324806
+23,Erigeron acris,Native,Drought,3,11,0.678943852,15.73678036
+24,Erigeron acris,Native,Drought,3,12,NA,NA
+25,Erigeron acris,Native,Flood,1,1,0.676675579,24.14549395
+26,Erigeron acris,Native,Flood,1,2,0.611333815,47.55702574
+27,Erigeron acris,Native,Flood,1,3,0.677881285,17.73723829
+28,Erigeron acris,Native,Flood,1,4,0.680386625,46.76485691
+29,Erigeron acris,Native,Flood,2,5,0.588852433,28.33939113
+30,Erigeron acris,Native,Flood,2,6,0.59132814,18.53961805
+31,Erigeron acris,Native,Flood,2,7,0.645921471,25.72784085
+32,Erigeron acris,Native,Flood,2,8,0.593434752,5.731336666
+33,Erigeron acris,Native,Flood,3,9,0.628920404,23.27503901
+34,Erigeron acris,Native,Flood,3,10,0.7829042,35.23657127
+35,Erigeron acris,Native,Flood,3,11,0.673869938,27.31232856
+36,Erigeron acris,Native,Flood,3,12,0.610937204,23.48797095
+37,Erigeron acris,Native,Drought + Flood,1,1,0.700513215,10.67976279
+38,Erigeron acris,Native,Drought + Flood,1,2,0.562730915,11.05681484
+39,Erigeron acris,Native,Drought + Flood,1,3,0.560017348,16.24847868
+40,Erigeron acris,Native,Drought + Flood,1,4,0.581559723,13.87565035
+41,Erigeron acris,Native,Drought + Flood,2,5,0.624954035,20.94735081
+42,Erigeron acris,Native,Drought + Flood,2,6,0.570383458,13.93354561
+43,Erigeron acris,Native,Drought + Flood,2,7,0.577044608,12.3251102
+44,Erigeron acris,Native,Drought + Flood,2,8,0.59906826,10.98432905
+45,Erigeron acris,Native,Drought + Flood,3,9,0.590783892,16.38461144
+46,Erigeron acris,Native,Drought + Flood,3,10,0.577842327,14.29865882
+47,Erigeron acris,Native,Drought + Flood,3,11,NA,NA
+48,Erigeron acris,Native,Drought + Flood,3,12,0.545135858,11.93642087
+49,Erigeron annuus,Invasive,Control,1,1,0.595802244,6.776087008
+50,Erigeron annuus,Invasive,Control,1,2,0.569790792,8.212638692
+51,Erigeron annuus,Invasive,Control,1,3,0.703413842,27.17210995
+52,Erigeron annuus,Invasive,Control,1,4,0.687933071,13.97277052
+53,Erigeron annuus,Invasive,Control,2,5,0.771681633,25.75343743
+54,Erigeron annuus,Invasive,Control,2,6,0.666949231,42.08600954
+55,Erigeron annuus,Invasive,Control,2,7,0.677118227,9.291239651
+56,Erigeron annuus,Invasive,Control,2,8,0.794701706,34.05379484
+57,Erigeron annuus,Invasive,Control,3,9,0.629778977,16.34463775
+58,Erigeron annuus,Invasive,Control,3,10,0.757105738,15.14297676
+59,Erigeron annuus,Invasive,Control,3,11,0.672819806,16.1130995
+60,Erigeron annuus,Invasive,Control,3,12,0.982488404,45.67532106
+61,Erigeron annuus,Invasive,Drought,1,1,0.607929685,4.578637502
+62,Erigeron annuus,Invasive,Drought,1,2,0.777158773,46.54425604
+63,Erigeron annuus,Invasive,Drought,1,3,0.728249221,8.13130609
+64,Erigeron annuus,Invasive,Drought,1,4,NA,NA
+65,Erigeron annuus,Invasive,Drought,2,5,0.735843821,3.220509558
+66,Erigeron annuus,Invasive,Drought,2,6,0.632118423,4.283091222
+67,Erigeron annuus,Invasive,Drought,2,7,0.683596021,2.708988428
+68,Erigeron annuus,Invasive,Drought,2,8,0.696287554,12.15129353
+69,Erigeron annuus,Invasive,Drought,3,9,0.804956692,3.97455327
+70,Erigeron annuus,Invasive,Drought,3,10,0.678114913,21.65557951
+71,Erigeron annuus,Invasive,Drought,3,11,NA,NA
+72,Erigeron annuus,Invasive,Drought,3,12,NA,NA
+73,Erigeron annuus,Invasive,Flood,1,1,0.787416404,21.96244381
+74,Erigeron annuus,Invasive,Flood,1,2,0.598860827,9.900056818
+75,Erigeron annuus,Invasive,Flood,1,3,0.585824013,16.69452984
+76,Erigeron annuus,Invasive,Flood,1,4,0.637197365,21.90679806
+77,Erigeron annuus,Invasive,Flood,2,5,0.63072936,17.58907894
+78,Erigeron annuus,Invasive,Flood,2,6,0.68286286,14.73538361
+79,Erigeron annuus,Invasive,Flood,2,7,0.594168177,19.07628791
+80,Erigeron annuus,Invasive,Flood,2,8,0.628860608,11.71825807
+81,Erigeron annuus,Invasive,Flood,3,9,0.686942735,5.918009288
+82,Erigeron annuus,Invasive,Flood,3,10,0.712503867,9.252647616
+83,Erigeron annuus,Invasive,Flood,3,11,0.617479556,7.500836929
+84,Erigeron annuus,Invasive,Flood,3,12,0.661063575,5.729000975
+85,Erigeron annuus,Invasive,Drought + Flood,1,1,0.658395252,13.05331978
+86,Erigeron annuus,Invasive,Drought + Flood,1,2,0.620720173,15.86154029
+87,Erigeron annuus,Invasive,Drought + Flood,1,3,0.635699823,29.07391979
+88,Erigeron annuus,Invasive,Drought + Flood,1,4,0.624302367,9.883790716
+89,Erigeron annuus,Invasive,Drought + Flood,2,5,0.690372,69.44150397
+90,Erigeron annuus,Invasive,Drought + Flood,2,6,NA,NA
+91,Erigeron annuus,Invasive,Drought + Flood,2,7,0.810021875,64.18855881
+92,Erigeron annuus,Invasive,Drought + Flood,2,8,0.679554246,7.76150091
+93,Erigeron annuus,Invasive,Drought + Flood,3,9,0.582993765,20.61147743
+94,Erigeron annuus,Invasive,Drought + Flood,3,10,0.640511271,10.32776563
+95,Erigeron annuus,Invasive,Drought + Flood,3,11,0.715873071,33.65260327
+96,Erigeron annuus,Invasive,Drought + Flood,3,12,NA,NA
+97,Matricaria chamomilla,Native,Control,1,1,0.699557804,40.1157494
+98,Matricaria chamomilla,Native,Control,1,2,0.691720317,62.32007917
+99,Matricaria chamomilla,Native,Control,1,3,0.690656163,90.40626389
+100,Matricaria chamomilla,Native,Control,1,4,0.665987735,49.30134843
+101,Matricaria chamomilla,Native,Control,2,5,0.676587473,66.03047942
+102,Matricaria chamomilla,Native,Control,2,6,0.701719715,38.15092007
+103,Matricaria chamomilla,Native,Control,2,7,0.643288073,58.88213866
+104,Matricaria chamomilla,Native,Control,2,8,0.670970369,13.86619395
+105,Matricaria chamomilla,Native,Control,3,9,0.716456742,34.20181551
+106,Matricaria chamomilla,Native,Control,3,10,0.539878323,253.0413746
+107,Matricaria chamomilla,Native,Control,3,11,0.682325492,65.5200371
+108,Matricaria chamomilla,Native,Control,3,12,NA,NA
+109,Matricaria chamomilla,Native,Drought,1,1,0.585884073,33.49956176
+110,Matricaria chamomilla,Native,Drought,1,2,0.587165715,20.97695436
+111,Matricaria chamomilla,Native,Drought,1,3,0.74906849,64.55887009
+112,Matricaria chamomilla,Native,Drought,1,4,0.61969941,37.35295711
+113,Matricaria chamomilla,Native,Drought,2,5,0.583281367,13.50165539
+114,Matricaria chamomilla,Native,Drought,2,6,0.622380698,55.37900291
+115,Matricaria chamomilla,Native,Drought,2,7,NA,NA
+116,Matricaria chamomilla,Native,Drought,2,8,0.559754881,3.344573705
+117,Matricaria chamomilla,Native,Drought,3,9,0.659976402,40.65719278
+118,Matricaria chamomilla,Native,Drought,3,10,0.67372574,5.047938718
+119,Matricaria chamomilla,Native,Drought,3,11,0.667532373,38.45293792
+120,Matricaria chamomilla,Native,Drought,3,12,0.597039965,17.55333082
+121,Matricaria chamomilla,Native,Flood,1,1,0.743173573,63.48824636
+122,Matricaria chamomilla,Native,Flood,1,2,0.693494877,11.29343529
+123,Matricaria chamomilla,Native,Flood,1,3,NA,NA
+124,Matricaria chamomilla,Native,Flood,1,4,0.578990883,16.3171672
+125,Matricaria chamomilla,Native,Flood,2,5,0.627746977,16.76623215
+126,Matricaria chamomilla,Native,Flood,2,6,0.640636683,51.70275058
+127,Matricaria chamomilla,Native,Flood,2,7,0.604157256,5.054910528
+128,Matricaria chamomilla,Native,Flood,2,8,0.669700369,35.3644735
+129,Matricaria chamomilla,Native,Flood,3,9,0.68379975,44.83975517
+130,Matricaria chamomilla,Native,Flood,3,10,0.588548163,73.35759287
+131,Matricaria chamomilla,Native,Flood,3,11,0.72744965,48.32951575
+132,Matricaria chamomilla,Native,Flood,3,12,0.713040706,23.8353185
+133,Matricaria chamomilla,Native,Drought + Flood,1,1,0.680373925,11.70905267
+134,Matricaria chamomilla,Native,Drought + Flood,1,2,0.686449288,16.41031727
+135,Matricaria chamomilla,Native,Drought + Flood,1,3,0.618990063,43.71944292
+136,Matricaria chamomilla,Native,Drought + Flood,1,4,0.689929352,111.1687614
+137,Matricaria chamomilla,Native,Drought + Flood,2,5,0.59476005,41.52835463
+138,Matricaria chamomilla,Native,Drought + Flood,2,6,0.666285127,81.39524753
+139,Matricaria chamomilla,Native,Drought + Flood,2,7,0.671225163,16.27318865
+140,Matricaria chamomilla,Native,Drought + Flood,2,8,NA,NA
+141,Matricaria chamomilla,Native,Drought + Flood,3,9,0.641421702,64.78493001
+142,Matricaria chamomilla,Native,Drought + Flood,3,10,0.71328915,84.9500061
+143,Matricaria chamomilla,Native,Drought + Flood,3,11,0.620750335,21.87223266
+144,Matricaria chamomilla,Native,Drought + Flood,3,12,0.588268233,83.5464121
+145,Matricaria discoidea,Invasive,Control,1,1,0.587564442,10.80244566
+146,Matricaria discoidea,Invasive,Control,1,2,0.635010583,30.01515804
+147,Matricaria discoidea,Invasive,Control,1,3,0.592573533,17.11469622
+148,Matricaria discoidea,Invasive,Control,1,4,0.607981279,55.45283823
+149,Matricaria discoidea,Invasive,Control,2,5,0.649428258,19.21042119
+150,Matricaria discoidea,Invasive,Control,2,6,0.657224735,10.66612746
+151,Matricaria discoidea,Invasive,Control,2,7,0.660710356,12.21788965
+152,Matricaria discoidea,Invasive,Control,2,8,0.774170569,50.73927987
+153,Matricaria discoidea,Invasive,Control,3,9,0.692825217,49.5314727
+154,Matricaria discoidea,Invasive,Control,3,10,0.65441195,21.71795246
+155,Matricaria discoidea,Invasive,Control,3,11,0.644545108,8.587500129
+156,Matricaria discoidea,Invasive,Control,3,12,0.619747035,119.1656339
+157,Matricaria discoidea,Invasive,Drought,1,1,0.62056354,37.48370665
+158,Matricaria discoidea,Invasive,Drought,1,2,0.698063173,4.811313649
+159,Matricaria discoidea,Invasive,Drought,1,3,0.573568777,22.34124381
+160,Matricaria discoidea,Invasive,Drought,1,4,0.599731306,20.10798571
+161,Matricaria discoidea,Invasive,Drought,2,5,0.606464688,1.823064463
+162,Matricaria discoidea,Invasive,Drought,2,6,0.571692881,11.33923972
+163,Matricaria discoidea,Invasive,Drought,2,7,0.576641119,19.89157392
+164,Matricaria discoidea,Invasive,Drought,2,8,0.637265627,14.58720137
+165,Matricaria discoidea,Invasive,Drought,3,9,0.563236269,12.00155688
+166,Matricaria discoidea,Invasive,Drought,3,10,NA,NA
+167,Matricaria discoidea,Invasive,Drought,3,11,0.652747192,5.071871384
+168,Matricaria discoidea,Invasive,Drought,3,12,0.74150511,9.689511408
+169,Matricaria discoidea,Invasive,Flood,1,1,0.572054302,18.95069504
+170,Matricaria discoidea,Invasive,Flood,1,2,0.781939265,17.47236557
+171,Matricaria discoidea,Invasive,Flood,1,3,0.624522235,59.55448304
+172,Matricaria discoidea,Invasive,Flood,1,4,0.592856638,25.0985574
+173,Matricaria discoidea,Invasive,Flood,2,5,0.629191073,26.3735951
+174,Matricaria discoidea,Invasive,Flood,2,6,0.671709085,28.38933261
+175,Matricaria discoidea,Invasive,Flood,2,7,0.575216338,15.36403847
+176,Matricaria discoidea,Invasive,Flood,2,8,0.587353569,37.980806
+177,Matricaria discoidea,Invasive,Flood,3,9,0.7167372,61.72157299
+178,Matricaria discoidea,Invasive,Flood,3,10,0.614124375,20.79263404
+179,Matricaria discoidea,Invasive,Flood,3,11,0.608765504,10.19370635
+180,Matricaria discoidea,Invasive,Flood,3,12,NA,NA
+181,Matricaria discoidea,Invasive,Drought + Flood,1,1,0.687732517,3.101422616
+182,Matricaria discoidea,Invasive,Drought + Flood,1,2,0.695676102,65.73642925
+183,Matricaria discoidea,Invasive,Drought + Flood,1,3,0.671948004,10.03760272
+184,Matricaria discoidea,Invasive,Drought + Flood,1,4,NA,NA
+185,Matricaria discoidea,Invasive,Drought + Flood,2,5,0.586220888,23.90415024
+186,Matricaria discoidea,Invasive,Drought + Flood,2,6,0.55626635,11.25760481
+187,Matricaria discoidea,Invasive,Drought + Flood,2,7,0.603051563,4.757089755
+188,Matricaria discoidea,Invasive,Drought + Flood,2,8,0.695088992,11.46760366
+189,Matricaria discoidea,Invasive,Drought + Flood,3,9,0.55889181,17.42938181
+190,Matricaria discoidea,Invasive,Drought + Flood,3,10,0.696111077,73.10153684
+191,Matricaria discoidea,Invasive,Drought + Flood,3,11,0.643909315,86.2311291
+192,Matricaria discoidea,Invasive,Drought + Flood,3,12,NA,NA
+193,Senecio inaequidens,Invasive,Control,1,1,NA,NA
+194,Senecio inaequidens,Invasive,Control,1,2,0.823885513,23.88490911
+195,Senecio inaequidens,Invasive,Control,1,3,NA,NA
+196,Senecio inaequidens,Invasive,Control,1,4,0.572774233,2.690534037
+197,Senecio inaequidens,Invasive,Control,2,5,NA,NA
+198,Senecio inaequidens,Invasive,Control,2,6,0.637607998,11.57348493
+199,Senecio inaequidens,Invasive,Control,2,7,0.972964727,28.51482004
+200,Senecio inaequidens,Invasive,Control,2,8,0.67170591,14.54130101
+201,Senecio inaequidens,Invasive,Control,3,9,0.773451431,16.19681934
+202,Senecio inaequidens,Invasive,Control,3,10,0.627525256,11.78040459
+203,Senecio inaequidens,Invasive,Control,3,11,0.729230296,10.89156373
+204,Senecio inaequidens,Invasive,Control,3,12,0.749731271,30.44404355
+205,Senecio inaequidens,Invasive,Drought,1,1,0.664651854,9.933981757
+206,Senecio inaequidens,Invasive,Drought,1,2,0.754070967,4.470713849
+207,Senecio inaequidens,Invasive,Drought,1,3,0.704417935,9.755860526
+208,Senecio inaequidens,Invasive,Drought,1,4,0.712909738,15.11472096
+209,Senecio inaequidens,Invasive,Drought,2,5,0.794442944,7.83838339
+210,Senecio inaequidens,Invasive,Drought,2,6,0.68462181,3.470417875
+211,Senecio inaequidens,Invasive,Drought,2,7,0.664204973,2.031336184
+212,Senecio inaequidens,Invasive,Drought,2,8,0.694018752,1.692834946
+213,Senecio inaequidens,Invasive,Drought,3,9,0.616971556,7.682677228
+214,Senecio inaequidens,Invasive,Drought,3,10,0.808042527,14.04263145
+215,Senecio inaequidens,Invasive,Drought,3,11,NA,NA
+216,Senecio inaequidens,Invasive,Drought,3,12,0.710867948,12.58386574
+217,Senecio inaequidens,Invasive,Flood,1,1,0.764818606,8.370945139
+218,Senecio inaequidens,Invasive,Flood,1,2,0.699205908,3.680172133
+219,Senecio inaequidens,Invasive,Flood,1,3,0.676058835,14.18019486
+220,Senecio inaequidens,Invasive,Flood,1,4,0.648662819,20.32036789
+221,Senecio inaequidens,Invasive,Flood,2,5,0.778839935,6.500889904
+222,Senecio inaequidens,Invasive,Flood,2,6,0.615445969,11.99483964
+223,Senecio inaequidens,Invasive,Flood,2,7,0.771495896,9.411437849
+224,Senecio inaequidens,Invasive,Flood,2,8,0.82923089,11.20524774
+225,Senecio inaequidens,Invasive,Flood,3,9,0.735610194,14.6349593
+226,Senecio inaequidens,Invasive,Flood,3,10,0.833604452,11.40991565
+227,Senecio inaequidens,Invasive,Flood,3,11,0.730340223,11.0915758
+228,Senecio inaequidens,Invasive,Flood,3,12,NA,NA
+229,Senecio inaequidens,Invasive,Drought + Flood,1,1,0.714754413,11.00903854
+230,Senecio inaequidens,Invasive,Drought + Flood,1,2,0.70028779,23.81885667
+231,Senecio inaequidens,Invasive,Drought + Flood,1,3,0.765512608,7.457424977
+232,Senecio inaequidens,Invasive,Drought + Flood,1,4,0.694562735,13.21113003
+233,Senecio inaequidens,Invasive,Drought + Flood,2,5,0.775025173,28.35632238
+234,Senecio inaequidens,Invasive,Drought + Flood,2,6,0.776190398,40.77344115
+235,Senecio inaequidens,Invasive,Drought + Flood,2,7,0.711767267,13.25394534
+236,Senecio inaequidens,Invasive,Drought + Flood,2,8,0.728712771,41.21253
+237,Senecio inaequidens,Invasive,Drought + Flood,3,9,0.598783833,11.53041938
+238,Senecio inaequidens,Invasive,Drought + Flood,3,10,0.803620281,6.121280128
+239,Senecio inaequidens,Invasive,Drought + Flood,3,11,NA,NA
+240,Senecio inaequidens,Invasive,Drought + Flood,3,12,NA,NA
+241,Senecio jacobaea,Native,Control,1,1,0.756844858,6.473586751
+242,Senecio jacobaea,Native,Control,1,2,0.715145202,8.370732674
+243,Senecio jacobaea,Native,Control,1,3,0.722561473,9.311534262
+244,Senecio jacobaea,Native,Control,1,4,0.836014806,17.34979479
+245,Senecio jacobaea,Native,Control,2,5,0.651032163,4.668213456
+246,Senecio jacobaea,Native,Control,2,6,0.755759802,12.63621562
+247,Senecio jacobaea,Native,Control,2,7,0.694911192,10.1655249
+248,Senecio jacobaea,Native,Control,2,8,0.682355125,6.909780546
+249,Senecio jacobaea,Native,Control,3,9,0.765148277,12.64635515
+250,Senecio jacobaea,Native,Control,3,10,0.713724125,7.211913961
+251,Senecio jacobaea,Native,Control,3,11,0.772370079,19.61024491
+252,Senecio jacobaea,Native,Control,3,12,0.727507329,6.434116257
+253,Senecio jacobaea,Native,Drought,1,1,0.719529613,8.820019037
+254,Senecio jacobaea,Native,Drought,1,2,NA,NA
+255,Senecio jacobaea,Native,Drought,1,3,0.700186719,16.11874719
+256,Senecio jacobaea,Native,Drought,1,4,0.762985838,6.573235787
+257,Senecio jacobaea,Native,Drought,2,5,0.806487042,4.080007924
+258,Senecio jacobaea,Native,Drought,2,6,0.798316973,23.69570166
+259,Senecio jacobaea,Native,Drought,2,7,0.828908892,6.375111477
+260,Senecio jacobaea,Native,Drought,2,8,0.836643192,2.02464631
+261,Senecio jacobaea,Native,Drought,3,9,0.900666008,13.38393872
+262,Senecio jacobaea,Native,Drought,3,10,NA,NA
+263,Senecio jacobaea,Native,Drought,3,11,0.617906065,4.508384742
+264,Senecio jacobaea,Native,Drought,3,12,NA,NA
+265,Senecio jacobaea,Native,Flood,1,1,0.690245529,6.401325468
+266,Senecio jacobaea,Native,Flood,1,2,0.614747204,7.264382919
+267,Senecio jacobaea,Native,Flood,1,3,NA,NA
+268,Senecio jacobaea,Native,Flood,1,4,NA,NA
+269,Senecio jacobaea,Native,Flood,2,5,0.624151819,235.7130061
+270,Senecio jacobaea,Native,Flood,2,6,0.68596219,11.40987133
+271,Senecio jacobaea,Native,Flood,2,7,0.731761829,5.275968482
+272,Senecio jacobaea,Native,Flood,2,8,0.675046275,3.881231437
+273,Senecio jacobaea,Native,Flood,3,9,0.760407738,18.63212442
+274,Senecio jacobaea,Native,Flood,3,10,0.764916238,13.0913169
+275,Senecio jacobaea,Native,Flood,3,11,0.864403275,2.089000352
+276,Senecio jacobaea,Native,Flood,3,12,0.902893271,15.25103892
+277,Senecio jacobaea,Native,Drought + Flood,1,1,0.751063448,24.90294346
+278,Senecio jacobaea,Native,Drought + Flood,1,2,0.82844349,6.915490413
+279,Senecio jacobaea,Native,Drought + Flood,1,3,1.117307635,6.914981828
+280,Senecio jacobaea,Native,Drought + Flood,1,4,NA,NA
+281,Senecio jacobaea,Native,Drought + Flood,2,5,0.854140617,23.84447954
+282,Senecio jacobaea,Native,Drought + Flood,2,6,NA,NA
+283,Senecio jacobaea,Native,Drought + Flood,2,7,1.014583421,12.17589695
+284,Senecio jacobaea,Native,Drought + Flood,2,8,0.901762442,10.77470653
+285,Senecio jacobaea,Native,Drought + Flood,3,9,0.569262683,4.415590888
+286,Senecio jacobaea,Native,Drought + Flood,3,10,0.673115081,6.838631159
+287,Senecio jacobaea,Native,Drought + Flood,3,11,0.715641825,28.59330705
+288,Senecio jacobaea,Native,Drought + Flood,3,12,0.762752475,50.20483019
+289,Solidago canadensis,Invasive,Control,1,1,0.628987608,25.06932829
+290,Solidago canadensis,Invasive,Control,1,2,0.722402988,10.85532402
+291,Solidago canadensis,Invasive,Control,1,3,0.761752615,43.53391709
+292,Solidago canadensis,Invasive,Control,1,4,0.832788213,9.262619347
+293,Solidago canadensis,Invasive,Control,2,5,0.799633275,16.43446755
+294,Solidago canadensis,Invasive,Control,2,6,NA,NA
+295,Solidago canadensis,Invasive,Control,2,7,0.689123431,6.713717753
+296,Solidago canadensis,Invasive,Control,2,8,0.766777581,19.34373246
+297,Solidago canadensis,Invasive,Control,3,9,0.830239217,21.30761782
+298,Solidago canadensis,Invasive,Control,3,10,0.796449015,24.43704469
+299,Solidago canadensis,Invasive,Control,3,11,0.72554121,14.505946
+300,Solidago canadensis,Invasive,Control,3,12,0.775290021,25.98143492
+301,Solidago canadensis,Invasive,Drought,1,1,0.810484631,48.35387149
+302,Solidago canadensis,Invasive,Drought,1,2,0.664316627,4.97299352
+303,Solidago canadensis,Invasive,Drought,1,3,0.771983523,15.74335549
+304,Solidago canadensis,Invasive,Drought,1,4,0.657143244,26.37847919
+305,Solidago canadensis,Invasive,Drought,2,5,0.724142623,9.881344387
+306,Solidago canadensis,Invasive,Drought,2,6,0.787161346,17.09797374
+307,Solidago canadensis,Invasive,Drought,2,7,0.738004673,2.496994985
+308,Solidago canadensis,Invasive,Drought,2,8,0.854680367,15.89643206
+309,Solidago canadensis,Invasive,Drought,3,9,0.798126208,3.161615967
+310,Solidago canadensis,Invasive,Drought,3,10,0.791587825,18.24572213
+311,Solidago canadensis,Invasive,Drought,3,11,0.79632519,21.65262552
+312,Solidago canadensis,Invasive,Drought,3,12,NA,NA
+313,Solidago canadensis,Invasive,Flood,1,1,0.74264176,3.879632288
+314,Solidago canadensis,Invasive,Flood,1,2,0.725157829,27.30667074
+315,Solidago canadensis,Invasive,Flood,1,3,NA,NA
+316,Solidago canadensis,Invasive,Flood,1,4,NA,NA
+317,Solidago canadensis,Invasive,Flood,2,5,0.711703502,38.70729789
+318,Solidago canadensis,Invasive,Flood,2,6,0.707252417,21.28145317
+319,Solidago canadensis,Invasive,Flood,2,7,0.769748323,22.14639272
+320,Solidago canadensis,Invasive,Flood,2,8,0.795144619,58.44730982
+321,Solidago canadensis,Invasive,Flood,3,9,0.669677615,NA
+322,Solidago canadensis,Invasive,Flood,3,10,0.716852558,24.36545807
+323,Solidago canadensis,Invasive,Flood,3,11,0.787433073,7.095338783
+324,Solidago canadensis,Invasive,Flood,3,12,0.740613465,16.3751003
+325,Solidago canadensis,Invasive,Drought + Flood,1,1,0.66042196,38.02796293
+326,Solidago canadensis,Invasive,Drought + Flood,1,2,0.829663748,15.44240012
+327,Solidago canadensis,Invasive,Drought + Flood,1,3,0.822854696,17.53756168
+328,Solidago canadensis,Invasive,Drought + Flood,1,4,0.688396621,7.188597632
+329,Solidago canadensis,Invasive,Drought + Flood,2,5,NA,NA
+330,Solidago canadensis,Invasive,Drought + Flood,2,6,0.719020819,30.6535941
+331,Solidago canadensis,Invasive,Drought + Flood,2,7,0.7817739,14.36139953
+332,Solidago canadensis,Invasive,Drought + Flood,2,8,0.822394585,58.89767494
+333,Solidago canadensis,Invasive,Drought + Flood,3,9,0.723906615,26.16711754
+334,Solidago canadensis,Invasive,Drought + Flood,3,10,0.707935571,57.38912597
+335,Solidago canadensis,Invasive,Drought + Flood,3,11,0.791068977,126.4640196
+336,Solidago canadensis,Invasive,Drought + Flood,3,12,0.717031152,29.67481963
+337,Solidago virgaurea,Native,Control,1,1,0.683123475,7.228073015
+338,Solidago virgaurea,Native,Control,1,2,0.779975527,11.27847129
+339,Solidago virgaurea,Native,Control,1,3,0.81694364,50.42421957
+340,Solidago virgaurea,Native,Control,1,4,0.709997998,18.88627335
+341,Solidago virgaurea,Native,Control,2,5,0.681216623,10.16086735
+342,Solidago virgaurea,Native,Control,2,6,0.66766149,2.052474801
+343,Solidago virgaurea,Native,Control,2,7,0.598178467,28.89901431
+344,Solidago virgaurea,Native,Control,2,8,NA,NA
+345,Solidago virgaurea,Native,Control,3,9,0.667329967,9.942541805
+346,Solidago virgaurea,Native,Control,3,10,0.696758513,11.23551855
+347,Solidago virgaurea,Native,Control,3,11,0.90151241,9.925654628
+348,Solidago virgaurea,Native,Control,3,12,0.590659802,12.50899512
+349,Solidago virgaurea,Native,Drought,1,1,0.703524173,7.468292576
+350,Solidago virgaurea,Native,Drought,1,2,0.666533835,9.874377937
+351,Solidago virgaurea,Native,Drought,1,3,0.702519285,11.42861642
+352,Solidago virgaurea,Native,Drought,1,4,0.8249793,21.61485809
+353,Solidago virgaurea,Native,Drought,2,5,NA,NA
+354,Solidago virgaurea,Native,Drought,2,6,0.696132508,5.607516617
+355,Solidago virgaurea,Native,Drought,2,7,0.684821306,14.57455637
+356,Solidago virgaurea,Native,Drought,2,8,0.756232348,6.858383027
+357,Solidago virgaurea,Native,Drought,3,9,0.850977788,10.05280323
+358,Solidago virgaurea,Native,Drought,3,10,0.759481167,7.845031991
+359,Solidago virgaurea,Native,Drought,3,11,NA,NA
+360,Solidago virgaurea,Native,Drought,3,12,0.862591408,9.692787799
+361,Solidago virgaurea,Native,Flood,1,1,0.786383206,7.728173557
+362,Solidago virgaurea,Native,Flood,1,2,0.596543871,28.3577324
+363,Solidago virgaurea,Native,Flood,1,3,0.673014275,15.06388737
+364,Solidago virgaurea,Native,Flood,1,4,NA,NA
+365,Solidago virgaurea,Native,Flood,2,5,0.688324654,7.370757581
+366,Solidago virgaurea,Native,Flood,2,6,0.676420785,NA
+367,Solidago virgaurea,Native,Flood,2,7,0.632472171,25.03818055
+368,Solidago virgaurea,Native,Flood,2,8,0.623136877,19.85858277
+369,Solidago virgaurea,Native,Flood,3,9,NA,NA
+370,Solidago virgaurea,Native,Flood,3,10,0.618390252,11.2485029
+371,Solidago virgaurea,Native,Flood,3,11,0.647584377,NA
+372,Solidago virgaurea,Native,Flood,3,12,0.77006106,9.322168602
+373,Solidago virgaurea,Native,Drought + Flood,1,1,0.60520236,41.34858639
+374,Solidago virgaurea,Native,Drought + Flood,1,2,0.655044304,9.462485277
+375,Solidago virgaurea,Native,Drought + Flood,1,3,0.659891206,19.40616009
+376,Solidago virgaurea,Native,Drought + Flood,1,4,0.647615069,26.17660901
+377,Solidago virgaurea,Native,Drought + Flood,2,5,0.691666871,24.83643811
+378,Solidago virgaurea,Native,Drought + Flood,2,6,0.642474479,10.45275808
+379,Solidago virgaurea,Native,Drought + Flood,2,7,0.677575956,8.585781975
+380,Solidago virgaurea,Native,Drought + Flood,2,8,0.663882975,25.35356927
+381,Solidago virgaurea,Native,Drought + Flood,3,9,0.608001388,12.01338965
+382,Solidago virgaurea,Native,Drought + Flood,3,10,0.653611321,11.19448438
+383,Solidago virgaurea,Native,Drought + Flood,3,11,NA,NA
+384,Solidago virgaurea,Native,Drought + Flood,3,12,NA,NA

@@ -1,0 +1,1281 @@
+Pot_nr,Species,Origin_species,Species_status,Soil_conditioning,Water_treatment,Replicates,Soil_origin_site,TBM,RootShoot
+820,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Control,5,2,1.00E-04,0
+801,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Control,1,3,0.001,0
+754,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,4,2,0.0015,0
+989,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Control,4,2,0.0016,0
+744,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Flood,4,2,0.0016,0
+389,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Drought,4,1,0.002,0
+964,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Control,4,2,0.002,0
+514,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,4,2,0.00222,0
+495,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Control,5,3,0.0024,0
+195,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,5,1,0.002455495,1.063441549
+635,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,5,2,0.002589215,NA
+1084,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,4,1,0.002622538,1.017336817
+645,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Control,5,1,0.002788992,0.212605079
+229,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Drought,4,3,0.0028,0
+124,Erigeron acris,Erigeron acris,Native,Conspecific soil,Drought + Flood,4,1,0.0028,0
+955,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,5,1,0.0029,0
+178,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,3,3,0.003,0
+815,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Control,5,2,0.0032,0
+594,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,4,1,0.0032,0
+897,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,2,2,0.0032,NA
+1042,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Flood,2,3,0.003281868,0.215506636
+1096,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,1,3,0.003347147,0.673573542
+253,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Flood,3,1,0.003550066,NA
+419,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,4,3,0.0036,0
+589,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,4,1,0.00368,0
+813,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Control,3,1,0.0037,0
+657,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,2,2,0.0037,0
+576,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Flood,1,2,0.0037,0
+976,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,1,1,0.003704293,0.234764457
+674,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,4,3,0.0038,0
+971,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Control,1,1,0.004,0
+1,Erigeron acris,Erigeron acris,Native,Conspecific soil,Control,1,1,0.004,0
+564,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,4,1,0.004,0
+1041,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Flood,1,2,0.004093956,0.049732301
+896,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,1,1,0.0041,0
+443,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,3,3,0.0041,0
+281,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,1,1,0.004116061,1.05803029
+417,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,2,2,0.0042,0
+403,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Flood,3,2,0.0043,0
+721,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,1,3,0.0043,0.194444444
+911,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,1,1,0.0044,0
+323,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Control,3,1,0.004477983,0.279423818
+401,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Flood,1,1,0.0046,0
+413,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Flood,3,2,0.0048,0
+500,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Control,5,3,0.00481644,0.2809681
+811,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Control,1,3,0.005,0
+656,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,1,2,0.0051,0.961538462
+497,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Control,2,1,0.0052,0
+961,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Control,1,1,0.005377983,0.222268946
+509,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Control,4,2,0.0054,0
+669,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Control,4,3,0.0054,0
+574,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,4,1,0.00543531,0.181589053
+420,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,5,3,0.00563,0
+817,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Control,2,3,0.0057,0
+974,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Control,4,2,0.0057,0
+653,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Control,3,3,0.005723744,0.100720066
+601,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,1,3,0.0059,0.113207547
+915,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,5,3,0.005928624,0.912459281
+1095,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,5,2,0.005947789,NA
+191,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,1,2,0.006,0
+355,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,5,2,0.006147365,0.862837802
+29,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Control,4,2,0.006148689,0.205625207
+174,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Control,4,3,0.006447489,0.193979386
+258,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,3,1,0.0065,0
+173,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Control,3,3,0.0065,0.101694915
+804,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Control,4,1,0.006622479,0.226385038
+969,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,4,2,0.006636295,0.301234343
+979,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,4,2,0.00668466,0.310717663
+85,Erigeron acris,Erigeron acris,Native,Conspecific soil,Flood,5,1,0.0071,0.224137931
+324,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Control,4,1,0.0071,0
+134,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,4,1,0.007120257,0.343444763
+11,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Control,1,1,0.0072,0
+644,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Control,4,3,0.0072,0
+561,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,1,2,0.0072,0.180327869
+3,Erigeron acris,Erigeron acris,Native,Conspecific soil,Control,3,2,0.007211471,0.311176525
+272,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,2,1,0.007242875,0.149662633
+885,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Flood,5,3,0.0075,0.704545455
+881,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Flood,1,1,0.0075,0.704545455
+16,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Control,1,1,0.00752822,0.075460004
+449,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,4,3,0.007556501,0.399351959
+333,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Control,3,1,0.0076,0
+1215,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Flood,5,2,0.007644137,0.158202584
+435,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,5,3,0.007685749,0.325129169
+426,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Flood,1,1,0.007814871,0.302478458
+17,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Control,2,1,0.0079,0
+620,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Drought + Flood,5,2,0.007905245,0.696404537
+457,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,2,2,0.007971672,0.245573687
+336,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,1,3,0.008,0
+658,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,3,3,0.00802822,0.130735215
+570,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,5,1,0.008078254,0.30294425
+1100,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,5,2,0.0082,0
+481,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Control,1,1,0.008222479,0.174639886
+277,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Flood,2,1,0.008258345,0.423852576
+337,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,2,3,0.0083,0
+4,Erigeron acris,Erigeron acris,Native,Conspecific soil,Control,4,2,0.0084,0
+434,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,4,3,0.0084,0
+654,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Control,4,3,0.008423744,0.53158988
+602,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,2,3,0.00845803,0.142977066
+243,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Flood,3,1,0.008493956,0.023368189
+249,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Flood,4,2,0.008613036,0.325082483
+1202,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Flood,2,1,0.008615384,2.916083459
+135,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,5,2,0.008642725,0.819521071
+18,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Control,3,2,0.008732513,0.16433512
+494,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Control,4,2,0.008749163,0.041567011
+181,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,1,2,0.00877622,0.755244078
+1234,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,4,2,0.008797166,1.094563362
+100,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Flood,5,1,0.0088,0
+641,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Control,1,2,0.0088,0.222222222
+474,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,4,3,0.0089,0
+668,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Control,3,3,0.008986516,0.095916636
+731,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,1,3,0.009,0.304347826
+832,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Control,2,3,0.009049122,0.117175504
+795,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,5,3,0.009189215,0.392305263
+162,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Control,2,2,0.00923395,0.465706363
+1272,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,2,1,0.009236518,0.539419736
+1275,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,5,3,0.009269215,0.387606996
+962,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Control,2,1,0.009444496,0.026575635
+404,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Flood,4,3,0.009463736,0.140209136
+922,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,2,2,0.0095,0
+1043,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Flood,3,3,0.009545604,0.223795352
+129,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,4,1,0.009656501,0.28753341
+1054,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Flood,4,1,0.00973531,0.093855016
+577,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Flood,2,3,0.009753505,0.161131564
+496,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Control,1,1,0.009760733,0.394390489
+624,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,4,1,0.0098,0
+738,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,3,1,0.009819113,0.558589421
+724,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,4,2,0.009851648,0.186945515
+824,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Control,4,1,0.009866433,0.701109148
+860,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,5,1,0.009878062,0.0737024
+140,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,5,2,0.01,0.538461538
+339,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,4,1,0.01005644,0.117382228
+675,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,5,1,0.010098243,2.740090061
+940,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,5,1,0.0101,0
+900,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,5,3,0.0101,0
+177,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,2,2,0.010108587,0.366025235
+499,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Control,4,2,0.0102,0
+402,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Flood,2,2,0.010233516,0.263396999
+856,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,1,2,0.010276636,0.71277265
+416,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,1,1,0.0104,0.268292683
+334,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Control,4,1,0.010494977,0.249402068
+975,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Control,5,3,0.010518722,0.813572709
+271,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,1,3,0.0106,0.376623377
+825,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Control,5,2,0.010632165,0.363098114
+352,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,2,3,0.010632748,0.063274772
+259,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,4,2,0.010724206,0.178484194
+1056,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,1,2,0.011,0
+659,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,4,3,0.011032513,0.125766673
+846,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,1,2,0.011062818,0.84380296
+444,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,4,3,0.011242538,0.460069852
+733,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,3,1,0.011270619,0.174022843
+453,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Drought + Flood,3,3,0.011282596,0.064395893
+933,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,3,3,0.011320257,0.191606026
+1081,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,1,3,0.011380568,0.264507572
+818,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Control,3,1,0.011452147,0.031724927
+999,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Control,4,2,0.01147788,1.125533317
+565,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,5,1,0.011597252,0.39725922
+895,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Flood,5,3,0.011652964,0.120477353
+164,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Control,4,3,0.011811933,0.49518145
+580,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Flood,5,1,0.011855608,0.22348898
+965,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Control,5,3,0.011866975,0.50214874
+484,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Control,4,2,0.012089454,0.286112154
+458,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,3,3,0.012098098,0.493592353
+1059,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,4,1,0.0121,0
+1214,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Flood,4,2,0.012105929,0.952569183
+451,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Drought + Flood,1,2,0.012175322,0.22983046
+1111,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Drought + Flood,1,3,0.0122,0
+254,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Flood,4,2,0.012288274,0.807099134
+579,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Flood,4,1,0.012294907,0.182202614
+454,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Drought + Flood,4,3,0.012350643,0.583415784
+471,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,1,2,0.012389215,0.821943343
+739,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,4,2,0.012394907,0.180467351
+325,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Control,5,2,0.0124,0.530864198
+1220,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,5,2,0.012465608,0.210253225
+643,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Control,3,3,0.012622479,0.107235018
+284,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,4,2,0.012625644,0.661268931
+1162,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Drought,2,2,0.012636967,0.486702012
+315,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,5,3,0.0128,0
+503,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,3,2,0.012853842,0.477453153
+841,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Drought,1,2,0.01291228,0.844611414
+780,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,5,3,0.012994294,0.261581958
+179,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,4,3,0.01301288,0.530927072
+492,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Control,2,1,0.013096652,0.11937193
+875,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,5,1,0.013221862,0.074948095
+995,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Control,5,3,0.013232748,0.050218073
+967,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,2,1,0.013248394,0.18289228
+1273,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,3,2,0.013322159,0.496871823
+578,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Flood,3,3,0.013365608,0.421873215
+755,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,5,2,0.013500122,0.95653944
+376,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,1,2,0.013520512,0.502279083
+914,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,4,3,0.013542997,1.257166121
+436,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Flood,1,1,0.0136,0
+573,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,3,3,0.013752964,0.100237157
+614,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,4,1,0.013765193,0.496216623
+725,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,5,2,0.013775824,0.059678761
+805,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Control,5,2,0.013789454,0.242293176
+322,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Control,2,3,0.013811471,0.141443875
+753,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,3,1,0.013889009,0.388900875
+276,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Flood,1,3,0.0141,0
+973,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Control,3,2,0.014269559,0.621540775
+569,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,4,1,0.014356509,0.354387613
+887,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,2,2,0.0143826,0.797824966
+511,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,1,1,0.014463739,0.607082068
+615,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,5,2,0.014502854,0.593720188
+810,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Control,5,2,0.014578639,1.159798444
+242,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Flood,2,1,0.014651648,0.118446395
+982,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,2,1,0.014754543,0.418706082
+1201,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Flood,1,3,0.01483956,0.483955972
+802,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Control,2,3,0.015244958,0.191012376
+257,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,2,1,0.015294907,0.403202494
+251,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Flood,1,3,0.0153,0.085106383
+1205,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Flood,5,2,0.015333516,0.161629977
+122,Erigeron acris,Erigeron acris,Native,Conspecific soil,Drought + Flood,2,3,0.015345076,0.871350698
+629,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,4,1,0.015401932,0.833563385
+460,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,5,1,0.015418819,0.233505495
+192,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,2,2,0.015430991,1.085269039
+972,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Control,2,1,0.015669559,0.169370061
+1244,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,4,2,0.015787045,0.973380679
+1258,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,3,2,0.0158,0
+283,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,3,2,0.015874091,0.249928415
+992,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Control,2,1,0.016398243,0.130913322
+819,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Control,4,1,0.01641288,0.147753854
+831,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Control,1,3,0.0165,0.204379562
+1058,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,3,3,0.016519113,0.270701027
+299,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,4,2,0.01656977,0.175160968
+415,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Flood,5,3,0.016570619,0.47951958
+906,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Flood,1,1,0.016577802,0.358836209
+919,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Flood,4,3,0.016645862,0.499627238
+951,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,1,2,0.016736518,1.17357382
+338,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,3,1,0.016745394,0.249656232
+609,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,4,1,0.0168,0.253731343
+809,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Control,4,1,0.0168,0.714285714
+256,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,1,3,0.016812103,0.050756443
+1223,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,3,1,0.016828004,0.137027298
+821,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Control,1,3,0.01688811,0.507866982
+60,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Drought,5,2,0.017,0
+996,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Control,1,1,0.0171149,0.380233865
+459,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,4,3,0.0172,0
+603,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,3,1,0.017480568,0.603721849
+261,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,1,3,0.0175,0
+592,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,2,3,0.017585749,0.831848873
+891,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Flood,1,1,0.0176,0.086419753
+604,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,4,1,0.017609583,0.197930836
+371,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Drought,1,2,0.017914526,0.628593299
+723,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,3,1,0.017954943,0.349995739
+834,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Control,4,1,0.01802045,3.395231677
+169,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Control,4,3,0.018064935,0.368555655
+498,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Control,3,2,0.01819754,0.255002772
+296,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,1,1,0.018245245,0.403480396
+575,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,5,1,0.018270619,0.631305294
+611,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,1,3,0.0183,0.150943396
+927,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,2,2,0.018316889,0.908009313
+431,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,1,1,0.018342915,0.730463708
+285,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,5,3,0.01865803,0.342304337
+583,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,3,3,0.018729339,0.18540121
+1241,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,1,1,0.018874091,0.202171393
+132,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,2,3,0.018905707,0.673071453
+34,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Control,4,2,0.018965495,0.607245377
+652,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Control,2,2,0.018996652,0.337792365
+475,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,5,1,0.019125733,0.438025049
+125,Erigeron acris,Erigeron acris,Native,Conspecific soil,Drought + Flood,5,2,0.019151553,0.450875228
+585,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,5,1,0.019153338,0.582920478
+263,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,3,1,0.019256008,0.782963705
+1051,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Flood,1,2,0.01933834,1.417292514
+700,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,5,3,0.019424497,NA
+491,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Control,1,1,0.019469559,0.400687685
+361,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Drought,1,2,0.0195,0.140350877
+405,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Flood,5,3,0.01950934,0.40354961
+375,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Drought,5,1,0.019637263,0.36369883
+252,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Flood,2,1,0.019661792,0.394453325
+605,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,5,2,0.019667614,0.69548393
+298,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,3,2,0.0197,0
+640,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,5,2,0.019793128,1.604358912
+274,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,4,2,0.019814332,0.923721577
+45,Erigeron acris,Erigeron acris,Native,Conspecific soil,Drought,5,2,0.019847868,NA
+12,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Control,2,1,0.020088281,0.321597403
+1057,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,2,3,0.020148412,0.192213747
+994,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Control,4,2,0.020184188,5.511028543
+469,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,4,3,0.020207614,0.656361802
+954,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,4,3,0.020231126,0.288606738
+452,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Drought + Flood,2,2,0.0203709,1.190419393
+153,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,3,1,0.020397727,0.426414502
+1082,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,2,3,0.020461136,1.248476517
+314,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,4,2,0.02056017,0.903719468
+264,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,4,2,0.020576001,0.033969916
+1069,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Flood,4,1,0.020614871,0.64918966
+839,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Control,4,1,0.02061682,0.718068322
+1204,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Flood,4,2,0.020645604,0.358263405
+442,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,2,2,0.020664508,0.012966057
+905,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,5,3,0.020676676,0.767237228
+24,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Control,4,2,0.02076811,0.609931023
+665,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Control,5,1,0.020799299,0.464739379
+185,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,5,1,0.020903354,0.537011344
+1243,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,3,2,0.020945076,0.623649281
+562,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,2,3,0.020985163,0.840803813
+664,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Control,4,3,0.021051677,0.43893897
+829,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Control,4,1,0.0212,0.341772152
+331,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Control,1,3,0.021294977,0.252645728
+931,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,1,2,0.0213,0.322981366
+441,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,1,2,0.021303106,0.775258834
+823,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Control,3,1,0.021364331,0.360785388
+2,Erigeron acris,Erigeron acris,Native,Conspecific soil,Control,2,1,0.021367438,0.207199865
+734,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,4,2,0.021376548,0.891729932
+194,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,4,3,0.021414617,0.418186558
+851,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Drought,1,2,0.021529853,0.794154383
+1046,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,1,2,0.021586945,0.798912092
+13,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Control,3,2,0.021593303,0.393116333
+291,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,1,1,0.021640514,0.352532156
+412,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Flood,2,2,0.021788274,0.106003762
+903,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,3,2,0.021876001,0.682769334
+391,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,1,2,0.02189684,0.684372313
+618,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Drought + Flood,3,1,0.021920721,0.184903818
+1020,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,5,2,0.021974899,0.157182692
+329,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,4,1,0.021984689,1.134435795
+1097,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,2,3,0.022018819,0.350847772
+634,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,4,1,0.022146074,2.305384129
+245,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Flood,5,2,0.022281428,0.224254266
+571,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,1,2,0.022294203,0.376185374
+1232,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,2,1,0.022314414,1.187687614
+1216,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,1,3,0.022526124,0.975975756
+1242,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,2,1,0.022567614,0.213312558
+642,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Control,2,2,0.022578446,0.312700345
+651,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Control,1,2,0.0226,0.147208122
+1114,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Drought + Flood,4,1,0.022783822,0.205493233
+365,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Drought,5,1,0.022830074,0.85610359
+1203,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Flood,3,1,0.022863736,0.314007806
+1075,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Flood,5,1,0.022871539,1.079230825
+421,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,1,1,0.022953338,0.35019634
+485,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Control,5,3,0.023000463,0.41978164
+1218,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,3,1,0.023124206,0.075544473
+397,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Drought,2,3,0.023196229,1.017063431
+313,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,3,2,0.023277274,1.097051693
+121,Erigeron acris,Erigeron acris,Native,Conspecific soil,Drought + Flood,1,3,0.023345076,0.341671019
+1164,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Drought,4,3,0.023345589,0.373269912
+1099,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,4,1,0.023415015,0.252139829
+482,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Control,2,1,0.023700925,0.354338579
+362,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Drought,2,3,0.023715037,0.718480948
+892,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Flood,2,2,0.023788274,0.328953861
+945,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,5,1,0.024111151,0.008834752
+737,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,2,1,0.024124206,0.42746782
+898,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,3,2,0.024136309,0.183152414
+1235,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,5,2,0.024311498,0.405288923
+639,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,4,1,0.024385492,4.188402526
+445,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,5,1,0.024403106,0.682972829
+456,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,1,2,0.02456977,0.111754283
+1121,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Control,1,2,0.0247,0.306878307
+20,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Control,5,3,0.024765027,0.110539318
+294,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,4,2,0.024850643,0.592989943
+354,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,4,1,0.024895608,1.057488257
+612,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,2,3,0.024915836,0.873371131
+1077,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Flood,2,3,0.024954207,0.782443378
+321,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Control,1,3,0.025,0
+341,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,1,3,0.0251,0.16744186
+816,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Control,1,3,0.025146601,2.265792314
+916,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Flood,1,1,0.025195862,0.574741397
+180,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,5,1,0.0254,0
+106,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Flood,1,2,0.0254,0.329842932
+187,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Control,2,2,0.025473033,0.463967404
+855,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Drought,5,1,0.025630653,0.392970251
+671,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,1,2,0.0257,0.278606965
+513,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Control,3,2,0.026021721,1.098525919
+985,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,5,3,0.026054543,0.772417908
+438,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Flood,3,2,0.02631669,0.50381085
+137,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,2,3,0.02636977,0.226500914
+356,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Control,1,3,0.0263894,1.638939955
+649,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,4,3,0.026416541,0.726571314
+255,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Flood,5,2,0.026422477,0.563460187
+345,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,5,2,0.026445732,0.548344979
+740,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,5,2,0.026677711,0.125641827
+455,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Drought + Flood,5,1,0.02673324,0.691977189
+1118,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,3,1,0.026891601,1.222446327
+414,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Flood,4,3,0.02693834,0.566182564
+595,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,5,1,0.026985831,0.5874018
+147,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,2,3,0.027026591,0.280881093
+901,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,1,1,0.027026669,0.468840701
+619,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Drought + Flood,4,1,0.027045245,0.454045438
+165,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Control,5,1,0.027189917,0.219278781
+1135,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Control,5,1,0.027194977,0.366581777
+1044,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Flood,4,1,0.027260987,0.632394453
+935,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,5,1,0.027268047,0.165301139
+1278,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Drought + Flood,3,2,0.0272958,0.882468985
+344,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,4,1,0.02734622,0.505020385
+599,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,4,1,0.027487517,0.665910146
+115,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Flood,5,1,0.02767158,0.82049867
+563,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,3,3,0.027715384,0.639963527
+835,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Control,5,2,0.027929234,0.188478045
+1263,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,3,2,0.027967259,0.77007966
+418,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,3,2,0.028012103,0.514167734
+1271,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,1,1,0.0281,0.812903226
+963,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Control,3,2,0.028100463,0.672646581
+1274,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,4,2,0.028407474,0.17386256
+28,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Control,3,2,0.028759549,0.389350205
+483,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Control,3,2,0.028778446,1.012478736
+1277,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Drought + Flood,2,1,0.029097709,0.818606828
+22,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Control,2,1,0.02915174,1.010464825
+902,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,2,2,0.02923468,0.689865872
+446,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,1,2,0.0293,0.526041667
+917,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Flood,2,2,0.029339656,0.905172459
+170,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Control,5,1,0.029352836,0.528793555
+429,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Flood,4,3,0.029355604,0.983486723
+886,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,1,1,0.0294,0.477386935
+822,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Control,2,3,0.029509787,0.353659969
+662,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Control,2,2,0.029531464,0.440559242
+26,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Control,1,1,0.029565164,0.971010945
+466,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,1,2,0.029655115,1.118222469
+977,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,2,1,0.029693247,0.313860479
+111,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Flood,1,2,0.0301,0
+1094,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,4,1,0.030175322,0.851246721
+326,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,1,3,0.03040123,0.688957211
+1107,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,2,3,0.030657614,0.803389058
+1063,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,3,3,0.03070534,0.69642765
+676,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Control,1,2,0.0307596,0.671717375
+155,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,5,2,0.030767644,0.569777765
+332,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Control,2,3,0.030796652,0.153432643
+396,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Drought,1,2,0.030802715,0.740266391
+803,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Control,3,1,0.030867438,0.239656129
+515,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,5,3,0.030929234,0.356545353
+377,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,2,3,0.031062961,0.21339693
+175,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Control,5,1,0.031070792,0.369964367
+293,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,3,2,0.031088304,1.072553593
+1098,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,3,1,0.031120721,0.447475378
+631,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,1,3,0.031136518,0.461808376
+749,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,4,2,0.031148276,1.035835033
+566,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,1,2,0.0313,0.596938776
+743,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Flood,3,1,0.03143468,1.138413577
+105,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Flood,5,1,0.031453338,0.243214932
+1055,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Flood,5,1,0.031506548,0.498171575
+672,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,2,2,0.03160759,1.528607175
+960,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,5,1,0.031998091,0.797645564
+1074,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Flood,4,1,0.032000122,1.370379417
+937,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,2,2,0.032098098,0.150469464
+978,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,3,2,0.032193247,0.393647049
+432,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,2,2,0.032357288,1.15715255
+991,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Control,1,1,0.032363739,0.54113041
+1093,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,3,1,0.032412982,0.434202758
+493,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Control,3,2,0.032418722,0.466910485
+741,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Flood,1,3,0.032453338,0.074613834
+600,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,5,1,0.032464621,1.029038816
+894,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Flood,4,3,0.032650066,0.547396493
+552,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,2,1,0.032734329,0.596796552
+351,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,1,3,0.0331,0.3187251
+745,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Flood,5,2,0.033160007,0.718135061
+956,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,1,2,0.033189692,1.074355725
+1061,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,1,2,0.033228004,0.510363819
+19,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Control,4,2,0.03328466,0.049989277
+394,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,4,1,0.03329684,0.608542999
+1060,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,5,1,0.033444907,0.173505515
+139,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,4,1,0.03346,0.11682243
+610,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,5,2,0.033488335,0.891996342
+182,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,2,2,0.034041953,0.86021599
+775,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,5,3,0.034050643,0.424713101
+411,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Flood,1,1,0.034088274,0.397060415
+632,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,2,3,0.034094607,0.482374233
+347,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Control,2,3,0.034165164,0.798166536
+81,Erigeron acris,Erigeron acris,Native,Conspecific soil,Flood,1,2,0.0344,0.109677419
+1072,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Flood,2,3,0.034442915,0.696695335
+1103,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,3,1,0.034601066,0.943880086
+765,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,5,3,0.034619167,0.552428995
+318,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,3,2,0.034690837,2.303889235
+15,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Control,5,3,0.03532621,0.348328641
+130,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,5,2,0.035463779,0.441617024
+1124,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Control,4,3,0.035578908,0.540212489
+504,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,4,2,0.035805732,0.234680422
+793,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,3,2,0.035844318,0.092814587
+949,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Drought + Flood,4,3,0.03587875,4.03208279
+268,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Flood,3,1,0.036066811,0.785485668
+39,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Control,4,2,0.03612278,0.411046087
+655,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Control,5,1,0.03617207,0.151976756
+161,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Control,1,2,0.036224792,1.587485146
+735,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,5,2,0.036241239,0.101557404
+1083,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,3,1,0.036267614,0.626350385
+913,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Flood,3,2,0.036292673,0.487404611
+189,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Control,4,3,0.036483894,NA
+464,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,4,3,0.036512216,0.763875174
+814,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Control,4,1,0.036520396,0.055502772
+1249,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,4,2,0.036694168,0.675532768
+711,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,1,1,0.036778052,1.125898986
+1049,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,4,1,0.036778236,0.820704732
+84,Erigeron acris,Erigeron acris,Native,Conspecific soil,Flood,4,1,0.03689978,0.209828848
+1089,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,4,1,0.037013001,0.788067689
+1155,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Control,5,1,0.037090991,0.236366363
+172,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Control,2,2,0.037293303,0.361069458
+433,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Flood,3,2,0.037329742,0.56191387
+316,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,1,1,0.0374,0.218241042
+461,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,1,2,0.037756108,1.097561559
+660,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,5,1,0.03780644,0.163275079
+584,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,4,1,0.037877336,0.310634479
+160,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,5,2,0.037897709,0.203101881
+490,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,5,3,0.037978263,0.967785639
+470,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,5,1,0.038003182,0.283891288
+489,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,4,2,0.038045181,0.605281882
+998,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Control,3,2,0.038186019,0.56500079
+38,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Control,3,2,0.0385447,0.371697501
+893,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Flood,3,2,0.038650066,0.442166642
+359,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Control,4,1,0.03885046,1.829603758
+884,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Flood,4,3,0.038879119,0.775302258
+519,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Control,4,2,0.03895364,1.38686518
+722,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,2,1,0.038973075,0.41206795
+117,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Flood,2,3,0.039,0
+761,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,1,1,0.03907072,0.860510457
+636,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,1,3,0.039188546,1.2522153
+423,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,3,2,0.039232009,0.648403754
+980,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,5,3,0.039332513,0.032349433
+25,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Control,5,3,0.039408386,0.705990722
+136,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,1,3,0.039465966,0.578638631
+467,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,2,2,0.03966841,0.88897191
+1092,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,2,3,0.039708561,0.563329179
+591,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,1,2,0.040057329,1.002866448
+424,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,4,3,0.040129339,0.459248695
+617,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Drought + Flood,2,3,0.040147147,0.034720286
+1064,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,4,1,0.040157343,0.701582336
+730,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,5,2,0.040543473,0.571452425
+1052,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Flood,2,3,0.040661924,0.2667266
+726,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,1,3,0.040791272,0.692583889
+349,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Control,4,1,0.04087041,0.536481577
+312,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,2,1,0.041156859,0.646274357
+118,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Flood,3,3,0.041381311,0.635624938
+880,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Drought,5,1,0.041512444,0.78164994
+1101,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,1,3,0.041534517,0.79803105
+647,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,2,2,0.041635542,0.794635423
+1000,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Control,5,3,0.0419447,0.784880842
+518,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Control,3,2,0.04203364,1.247788221
+1225,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,5,2,0.042037343,0.635694285
+920,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Flood,5,3,0.042070897,0.760288584
+1073,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Flood,3,3,0.042292673,0.489178609
+840,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Control,5,2,0.0423894,1.538287398
+984,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,4,2,0.042426921,0.258959086
+1255,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,5,3,0.042592725,0.151154732
+1140,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Control,5,1,0.04261288,0.186988304
+275,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,5,2,0.042742956,1.00671155
+568,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,3,3,0.042860854,0.823866131
+472,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,2,2,0.042887985,1.382665817
+74,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Drought,4,2,0.043061776,0.927563813
+150,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,5,2,0.043122159,0.413841286
+82,Erigeron acris,Erigeron acris,Native,Conspecific soil,Flood,2,3,0.043133516,0.718466761
+516,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Control,1,1,0.04313364,0.540487133
+582,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,2,3,0.043161348,0.783526796
+1217,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,2,1,0.043277711,0.319442418
+262,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,2,1,0.043461348,0.948939393
+742,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Flood,2,1,0.043544025,1.366523119
+587,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,2,3,0.043596336,0.030646247
+269,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Flood,4,2,0.043666811,0.692512035
+505,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,5,3,0.043741953,0.429475576
+678,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Control,3,3,0.043864818,1.885843314
+400,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Drought,5,1,0.044015686,0.84166052
+680,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Control,5,1,0.04424854,0.93225064
+581,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,1,2,0.044254673,0.382958528
+479,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,4,3,0.044331601,1.1625171
+878,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Drought,3,3,0.04465083,0.577767839
+363,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Drought,3,3,0.045154761,1.100221459
+534,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,4,2,0.045208884,0.974187082
+912,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,2,2,0.04527162,1.6630365
+154,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,4,1,0.045273037,0.855452329
+439,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Flood,4,3,0.045309242,0.895784188
+1116,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,1,3,0.045692364,0.995299744
+23,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Control,3,2,0.045765031,0.318876986
+437,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Flood,2,2,0.045818828,0.569137957
+826,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Control,1,3,0.046162541,1.429607436
+747,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,2,1,0.046407543,0.764545371
+5,Erigeron acris,Erigeron acris,Native,Conspecific soil,Control,5,3,0.046534413,0.376757771
+7,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Control,2,1,0.046584689,1.070430608
+830,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Control,5,2,0.046608238,0.739113351
+966,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,1,1,0.046660492,0.435707444
+799,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,4,2,0.046671601,1.224575813
+305,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,5,3,0.046953807,0.358224093
+198,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Control,3,3,0.04706682,0.285978685
+328,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,3,1,0.047125427,1.013907118
+1245,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,5,3,0.047148182,0.288201687
+1129,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Control,4,3,0.04720123,0.829505031
+71,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Drought,1,3,0.047218616,0.704643165
+650,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,5,1,0.047348394,0.183709838
+970,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,5,3,0.047364935,0.36106134
+1252,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,2,1,0.047505707,0.365106535
+303,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,3,2,0.047545313,0.698046881
+663,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Control,3,3,0.047597197,0.927012012
+625,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,5,2,0.047679475,0.90717899
+728,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,3,1,0.047686945,0.458316364
+14,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Control,4,2,0.047717047,0.325473542
+1209,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,4,2,0.047747799,1.085056733
+1227,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Flood,2,1,0.048429742,1.7674138
+523,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,3,1,0.048472556,1.498585341
+133,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,3,1,0.048850643,0.436783621
+43,Erigeron acris,Erigeron acris,Native,Conspecific soil,Drought,3,1,0.048913658,0.159091433
+751,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,1,3,0.048914577,1.081471341
+273,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Flood,3,1,0.048989009,0.540534866
+266,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Flood,1,3,0.049292673,0.432926526
+661,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Control,1,2,0.049364331,0.262514849
+959,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,4,3,0.049521601,0.897379332
+502,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,2,1,0.049861527,1.666391834
+120,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Flood,5,1,0.04986676,0.74971086
+837,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Control,2,3,0.0503298,0.128470849
+149,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,4,1,0.050544092,1.489856732
+899,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,4,3,0.050665608,0.276211794
+83,Erigeron acris,Erigeron acris,Native,Conspecific soil,Flood,3,3,0.050818679,0.503511218
+1229,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Flood,4,2,0.050899957,0.586162582
+1085,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,5,2,0.050996629,0.895785455
+648,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,3,3,0.051360492,0.746955507
+358,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Control,3,1,0.0515596,0.701636954
+852,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Drought,2,3,0.051951621,0.569535379
+637,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,2,3,0.052089692,1.445525427
+395,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,5,1,0.052149785,0.967916417
+646,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Control,1,2,0.052460492,0.634283237
+732,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,2,1,0.052461792,0.366192497
+679,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Control,4,3,0.052556219,1.551272787
+1016,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,1,3,0.0527,0
+1078,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Flood,3,3,0.052739656,1.234731181
+78,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Drought,3,1,0.052799472,0.374986257
+1238,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Flood,3,1,0.052904277,1.799168091
+406,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,1,1,0.05333909,0.601774465
+1195,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,5,3,0.053518702,0.386494861
+997,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Control,2,1,0.0536,0.745928339
+487,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,2,1,0.053677033,0.54688856
+342,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,2,3,0.05377622,0.473321107
+720,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,5,3,0.053851086,0.732103121
+116,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Flood,1,2,0.053883449,0.94525088
+200,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Control,5,1,0.05393536,1.947287406
+597,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,2,3,0.053987587,1.044984358
+94,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Flood,4,1,0.05403834,0.271490356
+1269,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,4,2,0.054221932,0.850577899
+1091,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,1,3,0.054625965,0.883653954
+1150,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Control,5,1,0.054887787,0.760352375
+473,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,3,3,0.054926591,0.476521265
+888,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,3,2,0.055121689,1.662883546
+95,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Flood,5,1,0.055353096,0.376942698
+925,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,5,1,0.055409318,0.736969218
+190,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Control,5,1,0.05559082,1.42754672
+101,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Flood,1,2,0.055606676,0.320823648
+792,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,2,1,0.05569877,1.13405249
+606,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,1,3,0.0558,0
+623,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,3,1,0.055844957,0.609364769
+300,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,5,3,0.056031441,0.234172715
+9,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Control,4,2,0.056237525,0.714558688
+838,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Control,3,1,0.0562447,1.090881033
+158,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,3,1,0.056387401,0.460813493
+626,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,1,3,0.056415228,1.350634499
+462,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,2,2,0.056669745,1.002464483
+1239,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Flood,4,2,0.056715932,0.750491728
+1045,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Flood,5,1,0.057070327,0.718985751
+288,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Drought + Flood,3,2,0.057116889,0.997094035
+1053,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Flood,3,3,0.057191305,0.422669268
+904,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,4,3,0.057357343,0.764841327
+1248,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,3,2,0.057492224,0.935765101
+1112,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Drought + Flood,2,3,0.057633207,0.481573447
+667,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Control,2,2,0.057832582,0.348078837
+682,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,2,2,0.057975313,0.44938282
+1240,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Flood,5,2,0.058050897,1.269386128
+1280,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Drought + Flood,5,3,0.058113965,0.276388419
+379,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,4,1,0.058119086,0.905543789
+31,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Control,1,1,0.058176599,0.487892552
+145,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,5,2,0.058223722,0.462907585
+883,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Flood,3,2,0.058297252,0.270092626
+932,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,2,2,0.058356351,0.547913807
+32,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Control,2,1,0.05842804,6.490774302
+425,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,5,3,0.058590688,0.443120384
+936,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,1,2,0.058807206,8.640525619
+1080,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Flood,5,1,0.0588649,1.156223428
+8,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Control,3,2,0.059069377,1.051020048
+295,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,5,3,0.059103111,0.331151148
+857,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,2,3,0.05919031,0.336124388
+422,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,2,2,0.059209346,1.041701579
+488,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,3,2,0.059333559,0.951761799
+501,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,1,1,0.059404882,0.60553734
+407,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,2,2,0.059686926,1.079683845
+183,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,3,3,0.059753842,0.234583521
+760,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,5,2,0.05996476,0.417606627
+143,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,3,1,0.05997983,1.075426641
+923,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,3,3,0.060074091,0.92545163
+330,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,5,2,0.060096787,1.185337712
+343,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,3,1,0.060164331,0.41230823
+409,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,4,3,0.060195617,0.954403153
+1134,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Control,4,3,0.060235769,0.52882663
+199,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Control,4,3,0.060249659,1.228992194
+800,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,5,3,0.060360073,1.169664751
+1048,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,3,3,0.060591272,1.219460503
+924,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,4,3,0.060819167,0.551509352
+806,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Control,1,3,0.060878263,1.536594285
+941,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,1,2,0.061280185,0.702227364
+478,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,3,3,0.061869075,2.062825484
+890,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,5,3,0.062078236,0.996084746
+1071,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Flood,1,2,0.062085831,1.586909608
+157,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,2,3,0.062391601,0.752573049
+278,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Flood,3,1,0.062431381,1.253840454
+520,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Control,5,3,0.062460059,1.041178409
+197,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Control,2,2,0.06270046,0.900013927
+628,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,3,1,0.062724092,1.056527595
+340,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,5,2,0.06286398,0.244831292
+1154,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Control,4,3,0.063138468,0.717586183
+807,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Control,2,3,0.063881952,1.19525609
+1120,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,5,2,0.063985874,1.037766677
+539,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Drought,4,2,0.064168372,0.278254432
+983,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,3,2,0.064251039,1.262360533
+103,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Flood,3,3,0.064509346,0.577245619
+1265,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,5,3,0.06529027,1.007078701
+758,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,3,1,0.065395862,1.81878717
+673,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Control,3,3,0.065427336,0.389115421
+353,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Control,3,1,0.065465164,0.90860537
+506,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Control,1,1,0.065590247,1.186341558
+1090,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,5,2,0.066324058,1.05975336
+290,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Drought + Flood,5,3,0.066426002,0.834972439
+167,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Control,2,2,0.066445181,0.601088689
+759,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,4,2,0.066575035,1.113493169
+508,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Control,3,2,0.06691123,1.835221604
+729,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,4,2,0.066956509,0.776034713
+752,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,2,1,0.066957329,1.625777606
+808,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Control,3,1,0.067069377,0.774322153
+879,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Drought,4,1,0.06715543,1.135307798
+836,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Control,1,3,0.067268199,2.099916989
+6,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Control,1,1,0.067317771,1.243925697
+141,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,1,3,0.067603552,0.877876439
+97,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Flood,2,3,0.06766435,1.044240191
+533,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,3,1,0.0676984,0.274922787
+163,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Control,3,3,0.068305088,1.379968231
+220,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,5,3,0.068606435,0.173762781
+159,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,4,1,0.06868511,1.244611441
+630,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,5,2,0.068701932,0.946230381
+1079,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Flood,4,1,0.069083449,1.626747125
+216,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,1,1,0.0693,0
+525,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,5,2,0.06971228,0.566568088
+1213,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Flood,3,1,0.069776548,0.52350542
+828,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Control,3,1,0.069813853,0.907482315
+598,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,3,3,0.070054207,1.209911902
+248,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Flood,3,1,0.070299981,1.002848469
+138,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,3,1,0.070592392,0.300044056
+987,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Control,2,1,0.071322091,1.026195754
+512,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,2,1,0.071553198,0.472288016
+1109,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,4,1,0.071853182,0.586162961
+557,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,2,1,0.072289744,0.729419708
+943,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,3,3,0.072312216,0.709508655
+286,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Drought + Flood,1,1,0.072376671,0.870198204
+1208,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,3,1,0.072447799,0.891587446
+156,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,1,3,0.072469457,1.243636426
+152,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,2,3,0.072980511,0.465472104
+1047,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,2,3,0.073591272,1.038539383
+127,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,2,3,0.074140948,0.673610555
+777,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,2,1,0.074186686,0.339109863
+1001,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Drought,1,3,0.074366914,0.562330123
+1076,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Flood,1,2,0.07503338,1.149953575
+1236,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Flood,1,3,0.075100139,1.115496881
+1067,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Flood,2,3,0.075192888,1.071429428
+854,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Drought,4,1,0.075360505,1.128827831
+123,Erigeron acris,Erigeron acris,Native,Conspecific soil,Drought + Flood,3,1,0.076047651,1.04980192
+1224,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,4,2,0.076860013,0.514483022
+762,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,2,1,0.076976932,1.250787474
+633,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,3,1,0.077331023,0.802587947
+151,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,1,3,0.078071428,2.700067681
+144,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,4,1,0.078103907,1.181673379
+889,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Flood,4,3,0.078152126,1.100863597
+126,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,1,3,0.078165006,0.856650968
+1219,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,4,2,0.078184722,0.475183426
+986,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Control,1,1,0.078195493,0.984657171
+507,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Control,2,1,0.078199592,5.109343126
+524,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,4,2,0.078598494,0.794486164
+907,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Flood,2,2,0.078740949,0.616857259
+1005,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Drought,5,2,0.078933383,0.424790303
+1159,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Control,4,3,0.07906748,0.821831327
+944,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,4,3,0.079256818,0.711810333
+93,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Flood,3,3,0.08000303,0.4572501
+567,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Flood,2,3,0.080608672,1.220624573
+196,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Control,1,2,0.080646079,1.443820563
+1196,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Drought,1,1,0.081008145,0.866547128
+1161,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Drought,1,1,0.081172428,0.361953493
+858,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,3,3,0.081225923,0.205132386
+1139,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Control,4,3,0.081262567,0.352122579
+622,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,2,3,0.081458239,0.802173432
+847,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,2,3,0.081485567,0.690571921
+1222,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,2,1,0.081502704,1.106013014
+1104,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,4,1,0.081612216,0.718151918
+289,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Drought + Flood,4,2,0.082311057,1.413813989
+698,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,3,2,0.082878901,0.687961323
+265,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,5,2,0.083014686,0.804667093
+1231,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,1,3,0.083143322,1.159566816
+372,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Drought,2,3,0.083970189,0.921514632
+776,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,1,1,0.084045044,0.431772477
+250,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Flood,5,2,0.084294763,0.419103755
+621,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,1,3,0.084769035,0.930957506
+517,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Control,2,1,0.085630719,0.588696086
+522,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,2,1,0.085767041,0.483858845
+463,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,3,3,0.085939135,0.980164391
+537,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Drought,2,1,0.086002559,0.447854524
+697,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,2,2,0.086479195,0.631682917
+450,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,5,1,0.086670948,0.40471552
+302,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,2,1,0.087101776,0.253262962
+756,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,1,3,0.087427521,1.625451094
+193,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Control,3,3,0.08754082,0.491325722
+1035,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Drought,5,2,0.087706148,0.456912756
+131,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,1,3,0.087711415,0.533416343
+27,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Control,2,1,0.087713853,1.209416945
+988,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Control,3,2,0.087902992,1.102942393
+715,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,5,3,0.087926191,0.314292838
+203,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Drought,3,2,0.088215037,0.822624733
+40,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Control,5,3,0.088327798,1.118172623
+772,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,2,1,0.088464912,0.89027589
+367,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,2,3,0.08858268,0.826447009
+794,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,4,2,0.089177199,1.334481661
+1200,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Drought,5,3,0.089286501,0.617509076
+593,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,3,3,0.089359699,0.7020895
+201,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Drought,1,1,0.089447614,0.740225945
+750,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,5,2,0.089874138,0.779685901
+327,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Control,2,3,0.089985918,1.349501788
+171,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Control,1,2,0.089991629,0.071328916
+1151,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Control,1,2,0.090105833,0.997912037
+981,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,1,1,0.090357322,0.775192973
+869,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Drought,4,1,0.090397626,1.525073341
+184,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,4,3,0.090744819,0.464334658
+670,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Control,5,1,0.090929959,1.561407301
+279,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Flood,4,2,0.091070897,0.975507531
+37,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Control,2,1,0.091074959,1.023887983
+538,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Drought,3,1,0.091860109,0.282962417
+1066,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Flood,1,2,0.092852156,1.110276261
+55,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Drought,5,2,0.093230168,0.181624441
+930,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,5,1,0.093244836,0.922573935
+282,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,2,1,0.093484492,1.001809254
+918,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Flood,3,2,0.093583449,0.785943691
+1230,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Flood,5,2,0.093652414,1.244246681
+685,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,5,3,0.09409035,0.185017001
+529,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,4,2,0.094222749,0.851134555
+408,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,3,2,0.094543454,1.134163743
+874,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,4,1,0.094896754,1.132511328
+1276,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Drought + Flood,1,1,0.094950367,1.644857018
+448,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,3,3,0.095307169,1.085496035
+35,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Control,5,3,0.09532804,0.459847466
+1270,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,5,3,0.095337387,1.502293627
+613,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,3,1,0.096572187,0.623061959
+993,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Control,3,2,0.096998485,1.33169434
+844,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Drought,4,1,0.097108696,0.934436167
+1123,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Control,3,3,0.097457817,0.863438183
+239,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Drought,4,3,0.097526501,0.821563335
+596,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,1,2,0.097856346,1.224007858
+833,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Control,3,1,0.097910861,0.872100587
+1036,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Drought,1,3,0.098360558,1.210349625
+1122,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Control,2,2,0.098747271,0.906317978
+1251,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,1,1,0.098801286,0.520019788
+862,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,2,3,0.098994016,3.669529047
+350,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Control,5,2,0.099673402,0.776709483
+952,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,2,2,0.099731977,1.095209602
+853,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Drought,3,3,0.099829853,0.358229287
+205,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Drought,5,3,0.100358844,0.782256151
+311,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,1,1,0.100982592,0.436452234
+842,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Drought,2,3,0.101557519,0.114791641
+168,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Control,3,3,0.101628639,1.036646082
+235,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,5,3,0.101686019,0.768452503
+89,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Flood,4,1,0.10173909,0.681637846
+440,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Flood,5,3,0.102134207,0.877467046
+30,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Control,5,3,0.102659918,0.412103417
+871,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,1,2,0.103006062,0.760787383
+535,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,5,2,0.103395663,0.540918973
+560,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,5,2,0.104260558,1.256722042
+782,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Drought + Flood,2,1,0.104712926,0.643845
+1125,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Control,5,1,0.104724329,0.654412788
+968,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Control,3,2,0.104896787,0.799258783
+90,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Flood,5,1,0.105066945,0.21324417
+948,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Drought + Flood,3,3,0.105130456,0.97613639
+1194,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,4,3,0.105278052,0.896901846
+677,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Control,2,2,0.10537834,0.480032858
+335,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Control,5,2,0.105508676,0.401177642
+1117,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,2,3,0.1056,0.208237986
+107,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Flood,2,3,0.105855819,0.374750899
+270,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Flood,5,2,0.106400216,0.539800517
+877,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Drought,2,3,0.106831373,0.561862176
+69,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Drought,4,2,0.106896913,0.206511437
+104,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Flood,4,1,0.107714686,0.404363576
+1228,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Flood,3,1,0.108207543,0.978200059
+926,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,1,2,0.108241676,1.633617427
+872,Solidago canadensis,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,2,3,0.108355761,1.025341327
+1259,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,4,2,0.10933003,0.448079862
+638,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,3,1,0.110283201,1.183825765
+870,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Drought,5,1,0.110412744,0.426521245
+1261,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,1,1,0.110703552,0.627993409
+558,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,3,1,0.111725415,1.027684481
+1149,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Control,4,3,0.111870779,0.609651498
+357,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Control,2,3,0.112282179,1.38391039
+607,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,2,3,0.112372782,1.256481571
+1233,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Flood,3,1,0.112389009,0.848503433
+586,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,1,2,0.112926294,1.214241049
+1206,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,1,3,0.113486908,0.668925112
+938,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,3,3,0.113741441,0.562382435
+146,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,1,3,0.113787503,0.905988324
+1145,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Control,5,1,0.114151953,0.388709886
+468,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,3,3,0.11446841,1.451143685
+1062,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,2,3,0.11474536,0.715177287
+378,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,3,3,0.114962374,0.526724756
+486,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Control,1,1,0.115044427,1.517383529
+410,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Flood,5,3,0.115138217,0.818929176
+1212,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Flood,2,1,0.115315152,0.441439404
+306,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,1,1,0.115699433,0.506503034
+554,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,4,2,0.11609368,1.202916132
+921,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,1,2,0.116195833,0.65757251
+934,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,4,3,0.116299719,0.597523609
+572,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,2,3,0.116541371,0.771145449
+364,Erigeron acris,Matricaria chamomilla,Native,Native heterospecific soil,Drought,4,1,0.116753807,1.174186346
+99,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Flood,4,1,0.117548412,0.090430541
+910,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Flood,5,3,0.117996768,0.614182869
+687,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,2,2,0.118036838,0.879567479
+246,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Flood,1,3,0.118225997,1.107415281
+521,Erigeron acris,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,1,3,0.11839298,0.485482806
+791,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,1,1,0.118782592,0.562928843
+1102,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,2,3,0.118904262,1.20193078
+957,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,2,2,0.119782819,1.655938344
+542,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,2,1,0.120099398,1.686787419
+719,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,4,3,0.121721644,0.838695534
+1088,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,3,1,0.121778007,0.61938839
+1262,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,2,1,0.123226563,1.216305095
+1003,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Drought,3,1,0.124394358,1.265835305
+1256,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,1,1,0.124437437,0.728297731
+247,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Flood,2,1,0.124439071,0.446965941
+590,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,5,1,0.12461875,0.659370842
+608,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought + Flood,3,1,0.12495006,1.117797635
+1019,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,4,2,0.125099706,0.957741884
+119,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Flood,4,1,0.125623036,0.681700611
+549,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,4,2,0.125652165,0.806645069
+430,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Flood,5,3,0.125700216,0.775426776
+946,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Drought + Flood,1,2,0.126457047,1.049546953
+1279,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Drought + Flood,4,2,0.127063583,2.379350609
+909,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Flood,4,3,0.12754457,1.101228493
+176,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Control,1,2,0.128055814,0.506538986
+748,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,3,1,0.128300432,1.684109446
+929,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,4,3,0.128653949,1.038889837
+41,Erigeron acris,Erigeron acris,Native,Conspecific soil,Drought,1,3,0.129066914,0.654704024
+1211,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Flood,1,3,0.129242031,1.081192118
+33,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Control,3,2,0.129681271,0.250542629
+108,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Flood,3,3,0.129866811,0.736187306
+939,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,4,3,0.130518819,0.143898499
+1165,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Drought,5,3,0.130588971,0.1958697
+1181,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,1,1,0.13095878,0.772107978
+399,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Drought,4,1,0.131902187,1.606762597
+1119,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,4,1,0.132184728,0.958292271
+684,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,4,3,0.133243383,0.758060203
+1086,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,1,3,0.133296233,0.923466562
+280,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Flood,5,2,0.134463036,0.746500008
+374,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Drought,4,1,0.135140337,0.533942529
+771,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,1,1,0.135712701,0.589141699
+211,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Drought,1,1,0.136179158,0.789476447
+683,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,3,2,0.137149247,0.640541232
+1029,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Drought,4,2,0.13724037,0.647543457
+142,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,2,3,0.137381961,0.812426926
+990,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Control,5,3,0.13845205,0.824137678
+42,Erigeron acris,Erigeron acris,Native,Conspecific soil,Drought,2,1,0.138468292,0.861132963
+36,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Control,1,1,0.138933017,1.354796899
+369,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,4,1,0.138949461,1.046383821
+1237,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Flood,2,1,0.139033519,1.313369701
+555,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,5,2,0.139115456,1.273128362
+188,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Control,3,3,0.139843812,0.298456935
+1158,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Control,3,3,0.1398745,0.869979942
+88,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Flood,3,3,0.141317344,0.797930585
+79,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Drought,4,2,0.14161083,0.275773242
+110,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Flood,5,1,0.141674138,0.368832251
+219,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,4,3,0.142672357,0.35106399
+786,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,1,1,0.142819093,1.106476296
+480,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,5,1,0.142880529,1.308247634
+1038,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Drought,3,1,0.143173002,1.769303713
+1010,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,5,2,0.14326355,0.802057236
+1087,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,2,3,0.143594896,1.793675026
+309,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,4,2,0.143886137,1.020872718
+209,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Drought,4,3,0.143923481,0.942287198
+559,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,4,2,0.144112444,0.648883794
+1032,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Drought,2,1,0.1447842,0.93820884
+477,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,2,2,0.144868693,0.672848649
+859,Matricaria discoidea,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,4,1,0.14490797,0.665608848
+1004,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Drought,4,2,0.146643605,0.939730228
+1015,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Drought,5,2,0.146708884,0.294870999
+864,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,4,1,0.147096445,0.745951868
+1198,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Drought,3,2,0.148138386,0.7125825
+1207,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,2,1,0.148643398,1.014138178
+231,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,1,1,0.148667971,1.356069268
+1157,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Control,2,2,0.148771119,0.524294256
+1163,Erigeron acris,Solidago virgaurea,Native,Native heterospecific soil,Drought,3,2,0.14951228,0.467245141
+114,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Flood,4,1,0.150257288,0.715265848
+202,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Drought,2,2,0.150443605,0.505941994
+240,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Drought,5,3,0.150938386,0.396930923
+346,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Control,1,3,0.151012706,2.247585085
+1210,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,5,2,0.151199944,1.163089324
+778,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,3,2,0.152115015,0.140292465
+234,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,4,3,0.15261221,3.462345316
+360,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Control,5,2,0.153086019,1.681016099
+727,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,2,1,0.153132562,0.997815554
+827,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Control,2,3,0.154684263,0.978059625
+849,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,4,1,0.155266437,0.774473565
+766,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,1,1,0.155389672,0.709457334
+91,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Flood,1,2,0.157309091,0.443202673
+1176,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,1,1,0.157792869,0.242463536
+44,Erigeron acris,Erigeron acris,Native,Conspecific soil,Drought,4,2,0.157803457,0.726514846
+381,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,1,2,0.158905827,0.969093269
+770,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,5,3,0.159609113,1.165659605
+148,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Drought + Flood,3,1,0.16014875,0.548827372
+746,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,1,3,0.161004743,0.916723125
+1170,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,5,3,0.162428522,0.400245881
+21,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Control,1,1,0.162692992,0.378754167
+47,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Drought,2,1,0.16319315,0.747249995
+10,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Control,5,3,0.163554558,0.375563986
+386,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Drought,1,2,0.164826571,0.86455397
+109,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Flood,4,1,0.165158233,0.50280467
+1247,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,2,1,0.1656678,2.067922214
+848,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,3,3,0.165883757,0.993795156
+1152,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Control,2,2,0.1660409,1.452598224
+186,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Control,1,2,0.166371517,0.828258433
+958,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Drought + Flood,3,3,0.166572893,2.131069412
+113,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Flood,3,3,0.166622414,1.551644931
+96,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Flood,1,2,0.167314021,0.248612094
+787,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,2,1,0.167730456,1.020848867
+691,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,1,1,0.168158105,0.49873534
+80,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Drought,5,2,0.168257316,0.793788012
+714,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,4,3,0.168309828,0.939500208
+556,Solidago virgaurea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,1,3,0.168451434,1.20775143
+796,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,1,1,0.168824405,1.519767239
+763,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,3,2,0.169037007,1.128929558
+1199,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Drought,4,3,0.169414872,0.671417442
+308,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,3,2,0.169467843,2.167623236
+267,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Flood,2,1,0.17044138,1.266507713
+98,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Flood,3,3,0.170547154,0.247601715
+769,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,4,2,0.172576063,0.97229786
+317,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,2,1,0.173669457,1.331133645
+757,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Flood,2,1,0.174371036,2.640313913
+384,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,4,1,0.174943516,1.032100311
+953,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Drought + Flood,3,3,0.175879773,0.313515857
+774,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,4,2,0.177250643,1.037363714
+427,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Flood,2,2,0.178363578,0.924094695
+540,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Drought,5,2,0.179819086,0.084554195
+92,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Flood,2,3,0.18038564,0.787766498
+1221,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Flood,1,3,0.181332076,1.065285605
+1002,Erigeron acris,Solidago canadensis,Native,Invasive heterospecific soil,Drought,2,1,0.18255877,0.631445663
+465,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,5,1,0.183613637,0.743719248
+1034,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Drought,4,2,0.184115542,1.06407558
+218,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,3,2,0.185297693,0.591904578
+1050,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,5,1,0.18575649,0.693313491
+1189,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Drought,4,3,0.186070845,0.211398729
+373,Matricaria chamomilla,Matricaria chamomilla,Native,Conspecific soil,Drought,3,3,0.18632421,0.602099832
+476,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Drought + Flood,1,2,0.186654567,1.744920098
+366,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,1,2,0.186718096,1.209681609
+779,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,4,2,0.187795995,0.870478041
+1260,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,5,3,0.188670089,0.355388569
+873,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Drought,3,3,0.189112744,1.153903694
+666,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Control,1,2,0.190399592,1.993704277
+1105,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought + Flood,5,2,0.190543367,0.920800067
+1160,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Control,5,1,0.191501379,1.373003455
+1106,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,1,3,0.192107961,1.289725402
+764,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,4,2,0.193480038,1.173933007
+213,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Drought,3,2,0.193556463,0.627892877
+876,Solidago virgaurea,Senecio jacobaea,Native,Native heterospecific soil,Drought,1,2,0.194356864,0.8598743
+681,Erigeron acris,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,1,1,0.195820297,0.998166292
+310,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,5,3,0.19585932,1.342814828
+1142,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Control,2,2,0.195899976,0.738242909
+112,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Flood,2,3,0.196385953,0.131255488
+784,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Drought + Flood,4,2,0.19658054,0.362304506
+204,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Drought,4,3,0.197408144,1.198308955
+1113,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,3,1,0.197706596,1.528217337
+1264,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,4,2,0.19799027,0.645804407
+236,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Drought,1,1,0.198805583,1.352728797
+1197,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Drought,2,2,0.199056788,0.740006886
+530,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,5,2,0.19915315,0.452612324
+75,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Drought,5,2,0.200734243,0.856931021
+627,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought + Flood,2,3,0.201660345,1.508213245
+447,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought + Flood,2,2,0.201864398,1.443878911
+1192,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,2,2,0.202812296,0.874420479
+237,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Drought,2,2,0.203442761,0.982872915
+908,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Flood,3,2,0.205096768,0.559671238
+1138,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Control,3,3,0.207157647,0.193992204
+102,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Flood,2,3,0.207402704,0.31433906
+797,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,2,1,0.210306843,1.179345519
+238,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Drought,3,2,0.211263273,0.712020044
+510,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Control,5,3,0.213403284,5.011360099
+1108,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,3,1,0.214086137,1.533563757
+215,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Drought,5,3,0.217005011,0.266812671
+319,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,4,2,0.217270984,0.982399487
+710,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,5,3,0.217925489,0.033311942
+1246,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,1,1,0.218614459,1.018600725
+297,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,2,1,0.219446946,0.293908882
+588,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Flood,3,3,0.220355819,1.429501866
+1191,Solidago canadensis,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,1,1,0.221924248,1.081840973
+348,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Control,3,1,0.222243443,1.055906039
+845,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Drought,5,1,0.222684836,0.347971159
+1011,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Drought,1,3,0.224121052,0.245116958
+208,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Drought,3,2,0.227030332,1.12774444
+1009,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,4,2,0.228309393,1.083114895
+370,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,5,1,0.22844355,0.80759258
+1136,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Control,1,2,0.228841681,0.903840942
+717,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,2,2,0.230145476,0.707310654
+76,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Drought,1,3,0.230686731,1.591985737
+304,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,4,2,0.231812926,0.646398625
+1040,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Drought,5,2,0.231979488,1.226290668
+387,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Drought,2,3,0.232124197,1.231963428
+1018,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,3,1,0.232269463,0.688004818
+702,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Drought,2,2,0.232411732,1.16398261
+57,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Drought,2,1,0.233476342,0.556508948
+718,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,3,2,0.234843816,0.575075899
+773,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,3,2,0.235179461,0.766938103
+1226,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Flood,1,3,0.23527457,1.234326396
+867,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Drought,2,3,0.23694106,1.091271492
+701,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Drought,1,1,0.237054681,0.744331723
+1039,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Drought,4,2,0.238012444,1.027363233
+53,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Drought,3,1,0.240357305,0.966917391
+1013,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Drought,3,1,0.241893726,0.842297989
+1146,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Control,1,2,0.244677871,0.785969859
+1177,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,2,2,0.245951846,0.226692497
+526,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,1,3,0.247199311,0.742067025
+428,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Flood,3,2,0.249726294,2.034341355
+790,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,5,3,0.249745457,0.525628938
+1007,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,2,1,0.251929255,0.982134183
+320,Solidago virgaurea,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,5,3,0.251975565,0.99505594
+87,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Flood,2,3,0.254434707,0.715675703
+712,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,2,2,0.255011866,0.618095596
+1033,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Drought,3,1,0.255978873,1.803711647
+699,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,4,3,0.256628482,0.540387044
+226,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Drought,1,1,0.258915571,1.456504472
+696,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,1,1,0.260737877,0.704169134
+544,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,4,2,0.261918803,0.590278101
+56,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Drought,1,3,0.265736158,0.360656209
+1068,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Flood,3,3,0.266859483,0.440925934
+385,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,5,1,0.270038811,0.527368841
+686,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,1,1,0.270283844,0.908784207
+866,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Drought,1,2,0.273963335,2.261468272
+77,Solidago virgaurea,Erigeron acris,Native,Native heterospecific soil,Drought,2,1,0.276769385,1.191364881
+1014,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Drought,4,2,0.277267747,1.076911965
+1174,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Drought,4,3,0.27972421,0.249326532
+536,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Drought,1,3,0.281705721,0.10951446
+693,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,3,2,0.281852463,0.492862622
+1144,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Control,4,3,0.282486133,0.398792441
+1180,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,5,3,0.283810822,0.079128601
+388,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Drought,3,3,0.285048603,1.100579241
+368,Erigeron annuus,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,3,3,0.29058449,1.233547191
+223,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,3,2,0.291094697,0.982933902
+768,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,3,2,0.293317131,0.934809573
+86,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Flood,1,2,0.295112905,0.621499477
+65,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Drought,5,2,0.295696425,0.825286575
+798,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,3,2,0.295864875,0.969806092
+232,Solidago canadensis,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,2,2,0.297243465,0.63230898
+1037,Solidago virgaurea,Solidago canadensis,Native,Invasive heterospecific soil,Drought,2,1,0.297440046,0.737383446
+532,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,2,1,0.298270189,0.480249079
+781,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Drought + Flood,1,1,0.298483242,0.967588937
+1070,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Flood,5,1,0.299037501,0.804692218
+863,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,3,3,0.302322339,0.915857659
+46,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Drought,1,3,0.302370789,1.029334152
+548,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,3,1,0.305640607,1.811781117
+551,Solidago canadensis,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,1,3,0.305842433,1.345417434
+1110,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Drought + Flood,5,2,0.309601365,1.174166892
+942,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,2,2,0.311795953,1.075871858
+221,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,1,1,0.314505748,0.850033812
+1030,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Drought,5,2,0.315870845,1.243400887
+706,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,1,1,0.322178631,1.386508374
+166,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Control,1,2,0.323987547,1.844491198
+705,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Drought,5,3,0.325944114,0.604845466
+398,Solidago virgaurea,Matricaria chamomilla,Native,Native heterospecific soil,Drought,3,3,0.331620589,0.69194178
+1143,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Control,3,3,0.332949637,0.223180152
+850,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,5,1,0.333343688,0.469769348
+301,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought + Flood,1,1,0.333602701,1.04664234
+1130,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Control,5,1,0.339215034,0.431891239
+1166,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,1,1,0.341517407,0.726579407
+61,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Drought,1,3,0.343046929,1.130726268
+688,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,3,2,0.344174451,1.00334372
+1147,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Control,2,2,0.34513332,0.839729853
+390,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Drought,5,1,0.346143854,1.078942067
+1024,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,4,2,0.34804528,0.836650552
+382,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,2,3,0.348516433,0.726183423
+48,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Drought,3,1,0.35103757,1.007075873
+1266,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,1,1,0.352005693,1.621040159
+1137,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Control,2,2,0.352405501,0.197029554
+947,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Drought + Flood,2,2,0.354683534,1.963103877
+1023,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,3,1,0.356209965,0.439813923
+868,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Drought,3,3,0.357756631,1.417274537
+527,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,2,1,0.357999655,1.006724526
+709,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,4,3,0.363475726,0.36902345
+1031,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Drought,1,3,0.366293164,1.142065288
+528,Erigeron annuus,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,3,1,0.366580526,0.976175341
+214,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Drought,4,3,0.367019368,1.152606266
+287,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Drought + Flood,2,1,0.367322843,0.613187715
+210,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Drought,5,3,0.369703619,1.00164385
+292,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,2,1,0.371819413,0.76384921
+785,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Drought + Flood,5,3,0.374676293,0.6659684
+128,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Drought + Flood,3,1,0.375127946,0.848831673
+207,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Drought,2,2,0.378164283,0.615396338
+50,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Drought,5,2,0.38189181,0.739826012
+1022,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,2,1,0.381987024,0.881709476
+1132,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Control,2,2,0.388147047,1.768523873
+49,Erigeron annuus,Erigeron acris,Invasive,Native heterospecific soil,Drought,4,2,0.38878087,0.821841004
+928,Erigeron annuus,Senecio jacobaea,Invasive,Native heterospecific soil,Drought + Flood,3,3,0.390599755,1.370144146
+716,Solidago virgaurea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,1,1,0.391426019,1.262578146
+550,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,5,2,0.391832402,0.605212626
+59,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Drought,4,2,0.396578901,0.271901543
+1128,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Control,3,3,0.403727532,1.304380891
+767,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought + Flood,2,1,0.403798785,0.927440499
+861,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,1,2,0.410147008,1.165506905
+1179,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,4,3,0.415482047,0.319409485
+865,Senecio inaequidens,Senecio jacobaea,Invasive,Native heterospecific soil,Drought,5,1,0.416739374,0.92845615
+1169,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,4,3,0.418258854,0.803617309
+1065,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Flood,5,1,0.421401369,0.483285352
+1017,Matricaria discoidea,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,2,1,0.421865226,0.305276072
+690,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,5,3,0.422222749,0.781530586
+230,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Drought,5,3,0.42291979,0.558002542
+1126,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Control,1,2,0.425538478,1.312709119
+1156,Solidago virgaurea,Solidago virgaurea,Native,Conspecific soil,Control,1,2,0.428319659,1.168707134
+307,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Drought + Flood,2,1,0.430013759,0.639396716
+1025,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,5,2,0.432802331,0.493451797
+217,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,2,2,0.434754404,0.325470745
+72,Solidago canadensis,Erigeron acris,Invasive,Native heterospecific soil,Drought,2,1,0.441096668,0.580991642
+1131,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Control,1,2,0.441349774,0.786118064
+383,Senecio inaequidens,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,3,3,0.444065248,0.544574776
+1012,Matricaria chamomilla,Solidago canadensis,Native,Invasive heterospecific soil,Drought,2,1,0.447094484,0.695466378
+783,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Drought + Flood,3,2,0.452194177,0.564144507
+1133,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Control,3,3,0.453950079,1.000661433
+531,Matricaria chamomilla,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,1,3,0.458185894,0.847523765
+212,Matricaria chamomilla,Erigeron annuus,Native,Invasive heterospecific soil,Drought,2,2,0.469950863,0.514504876
+206,Erigeron annuus,Erigeron annuus,Invasive,Conspecific soil,Drought,1,1,0.472163155,0.403993918
+1006,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,1,3,0.478583155,0.758204095
+64,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Drought,4,2,0.489561728,0.510060852
+694,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,4,3,0.489581474,0.345004048
+1268,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,3,2,0.498300695,2.001811413
+224,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,4,3,0.502509386,0.460485906
+1127,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Control,2,2,0.505873067,1.124624388
+689,Erigeron annuus,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,4,3,0.506274752,0.817862666
+63,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Drought,3,1,0.506619929,0.534746832
+788,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,3,2,0.507694434,1.2554173
+51,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Drought,1,3,0.516521852,0.467391626
+1190,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Drought,5,3,0.51937942,0.270342229
+66,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Drought,1,3,0.527695704,2.122459786
+547,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,2,1,0.527956599,2.773814142
+707,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,2,2,0.534359006,1.740302594
+1250,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,5,3,0.535434726,0.666982336
+1186,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Drought,1,1,0.546669133,1.062902389
+1178,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,3,2,0.55075151,0.171313292
+1172,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Drought,2,2,0.563862989,0.649204414
+789,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought + Flood,4,2,0.570470343,1.147855205
+1171,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Drought,1,1,0.578838905,0.269383563
+1167,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,2,2,0.582663206,0.700709882
+713,Solidago canadensis,Senecio inaequidens,Invasive,Invasive heterospecific soil,Drought,3,2,0.591265585,1.124561928
+52,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Drought,2,1,0.591453263,0.433478582
+1141,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Control,1,2,0.600220952,0.485695426
+392,Solidago canadensis,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,2,3,0.612622958,0.434714187
+541,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,1,3,0.615793937,0.854801015
+1173,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Drought,3,2,0.618187116,0.375889419
+704,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Drought,4,3,0.622981157,0.58076924
+393,Senecio jacobaea,Matricaria chamomilla,Native,Native heterospecific soil,Drought,3,3,0.630838233,1.642807847
+58,Matricaria discoidea,Erigeron acris,Invasive,Native heterospecific soil,Drought,3,1,0.634500839,0.432605191
+1175,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Drought,5,3,0.655941789,0.219676068
+228,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Drought,3,2,0.656892037,NA
+225,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,5,3,0.664099988,0.32793439
+1027,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Drought,2,1,0.674023987,1.995662163
+950,Senecio jacobaea,Senecio jacobaea,Native,Conspecific soil,Drought + Flood,5,1,0.676450683,0.899075471
+1021,Senecio inaequidens,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,1,3,0.692118201,0.761115015
+553,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,3,1,0.713305621,1.674561759
+1153,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Control,3,3,0.715073771,0.40929005
+1184,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,4,3,0.727498811,0.185623877
+692,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,2,2,0.732263747,0.352537398
+227,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Drought,2,2,0.734136941,1.55618712
+1008,Erigeron annuus,Solidago canadensis,Invasive,Invasive heterospecific soil,Drought,3,1,0.736729255,0.912092538
+1028,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Drought,3,1,0.749639105,1.330967368
+1026,Senecio jacobaea,Solidago canadensis,Native,Invasive heterospecific soil,Drought,1,3,0.762632192,0.815790934
+543,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,3,1,0.766997028,0.326754934
+545,Senecio inaequidens,Matricaria discoidea,Invasive,Invasive heterospecific soil,Drought,5,2,0.772599398,0.356389392
+708,Senecio jacobaea,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,3,2,0.775760055,1.538481856
+1193,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Drought,3,2,0.807796333,0.418929094
+62,Senecio inaequidens,Erigeron acris,Invasive,Native heterospecific soil,Drought,2,1,0.814288713,0.491917759
+73,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Drought,3,1,0.830148393,1.025740344
+70,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Drought,5,2,0.868385964,1.399519103
+703,Senecio inaequidens,Senecio inaequidens,Invasive,Conspecific soil,Drought,3,2,0.878858217,0.406848434
+54,Matricaria chamomilla,Erigeron acris,Native,Native heterospecific soil,Drought,4,2,0.909561347,0.275503221
+546,Senecio jacobaea,Matricaria discoidea,Native,Invasive heterospecific soil,Drought,1,3,0.920444064,1.500527205
+1185,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,5,3,0.947672921,0.164932909
+1188,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Drought,3,2,0.970827653,0.608928825
+222,Senecio inaequidens,Erigeron annuus,Invasive,Invasive heterospecific soil,Drought,2,2,0.986465248,0.714101213
+1148,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Control,3,3,1.036752788,0.528908403
+233,Senecio jacobaea,Erigeron annuus,Native,Invasive heterospecific soil,Drought,3,2,1.08351037,1.669402242
+1168,Erigeron annuus,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,3,2,1.084702198,0.806632574
+1187,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Drought,2,2,1.099870215,0.720698084
+1183,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,3,2,1.111452311,0.412803243
+68,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Drought,3,1,1.154371927,0.823364282
+1182,Senecio inaequidens,Solidago virgaurea,Invasive,Native heterospecific soil,Drought,2,2,1.426404622,0.462079358
+67,Senecio jacobaea,Erigeron acris,Native,Native heterospecific soil,Drought,2,1,1.877461512,1.199205238
+260,Matricaria discoidea,Erigeron annuus,Invasive,Invasive heterospecific soil,Flood,5,2,NA,NA
+380,Matricaria discoidea,Matricaria chamomilla,Invasive,Native heterospecific soil,Drought,5,1,NA,NA
+244,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Flood,4,2,NA,NA
+695,Matricaria chamomilla,Senecio inaequidens,Native,Invasive heterospecific soil,Drought,5,3,NA,NA
+1257,Matricaria discoidea,Solidago virgaurea,Invasive,Native heterospecific soil,Drought + Flood,2,1,NA,NA
+1115,Solidago canadensis,Solidago canadensis,Invasive,Conspecific soil,Drought + Flood,5,2,NA,NA
+616,Matricaria discoidea,Matricaria discoidea,Invasive,Conspecific soil,Drought + Flood,1,3,NA,NA
+812,Matricaria chamomilla,Senecio jacobaea,Native,Native heterospecific soil,Control,2,3,NA,NA
+843,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Drought,3,3,NA,NA
+241,Erigeron acris,Erigeron annuus,Native,Invasive heterospecific soil,Flood,1,3,NA,NA
+1254,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,4,2,NA,NA
+736,Matricaria discoidea,Senecio inaequidens,Invasive,Invasive heterospecific soil,Flood,1,3,NA,NA
+882,Erigeron acris,Senecio jacobaea,Native,Native heterospecific soil,Flood,2,2,NA,NA
+1253,Matricaria chamomilla,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,3,2,NA,NA
+1267,Senecio jacobaea,Solidago virgaurea,Native,Native heterospecific soil,Drought + Flood,2,1,NA,NA

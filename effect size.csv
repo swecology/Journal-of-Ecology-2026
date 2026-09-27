@@ -1,0 +1,225 @@
+Species,Origin_species,Species_status,Water_treatment,effect.size,Distance,SRL,RD
+Erigeron acris,Erigeron annuus,Native,Control,-0.104706215,0.8,21.71617689,0.709131972
+Erigeron acris,Matricaria chamomilla,Native,Control,0.03967278,17.85,70.16694549,0.670831655
+Erigeron acris,Matricaria discoidea,Native,Control,-0.013283883,16.45,33.7684513,0.648016089
+Erigeron acris,Senecio inaequidens,Native,Control,0.053792826,29.1,16.72420892,0.728764071
+Erigeron acris,Senecio jacobaea,Native,Control,0.032075034,28.1,NA,NA
+Erigeron acris,Solidago canadensis,Native,Control,0.049299848,3.75,19.7677409,0.75718047
+Erigeron acris,Solidago virgaurea,Native,Control,-0.439180565,4.05,15.6856458,0.708487083
+Matricaria chamomilla,Erigeron acris,Native,Control,0.070235579,17.85,17.77863656,0.643162771
+Matricaria chamomilla,Erigeron annuus,Native,Control,0.007047669,17.05,21.71617689,0.709131972
+Matricaria chamomilla,Matricaria discoidea,Native,Control,0.159759359,1.4,33.7684513,0.648016089
+Matricaria chamomilla,Senecio inaequidens,Native,Control,0.134434826,11.75,16.72420892,0.728764071
+Matricaria chamomilla,Senecio jacobaea,Native,Control,0.184805464,12.75,NA,NA
+Matricaria chamomilla,Solidago canadensis,Native,Control,0.201441767,21.6,19.7677409,0.75718047
+Matricaria chamomilla,Solidago virgaurea,Native,Control,-1.917831367,21.9,15.6856458,0.708487083
+Senecio jacobaea,Erigeron acris,Native,Control,0.069335355,28.1,17.77863656,0.643162771
+Senecio jacobaea,Erigeron annuus,Native,Control,-0.100188244,27.3,21.71617689,0.709131972
+Senecio jacobaea,Matricaria chamomilla,Native,Control,-0.236751226,12.75,70.16694549,0.670831655
+Senecio jacobaea,Matricaria discoidea,Native,Control,-0.025602376,14.15,33.7684513,0.648016089
+Senecio jacobaea,Senecio inaequidens,Native,Control,0.023272247,1,16.72420892,0.728764071
+Senecio jacobaea,Solidago canadensis,Native,Control,-0.050935598,32.35,19.7677409,0.75718047
+Senecio jacobaea,Solidago virgaurea,Native,Control,-2.77069179,32.65,15.6856458,0.708487083
+Solidago virgaurea,Erigeron acris,Native,Control,0.95400502,4.05,17.77863656,0.643162771
+Solidago virgaurea,Erigeron annuus,Native,Control,1.095862574,4.85,21.71617689,0.709131972
+Solidago virgaurea,Matricaria chamomilla,Native,Control,0.971392197,21.9,70.16694549,0.670831655
+Solidago virgaurea,Matricaria discoidea,Native,Control,1.147831371,20.5,33.7684513,0.648016089
+Solidago virgaurea,Senecio inaequidens,Native,Control,1.140456759,33.5,16.72420892,0.728764071
+Solidago virgaurea,Senecio jacobaea,Native,Control,1.204575723,32.65,NA,NA
+Solidago virgaurea,Solidago canadensis,Native,Control,1.324161813,0.3,19.7677409,0.75718047
+Erigeron acris,Erigeron annuus,Native,Drought,-0.211447645,0.8,11.91646835,0.704917234
+Erigeron acris,Matricaria chamomilla,Native,Drought,0.427067987,17.85,30.02954322,0.627773556
+Erigeron acris,Matricaria discoidea,Native,Drought,0.149482719,16.45,14.46802445,0.621952698
+Erigeron acris,Senecio inaequidens,Native,Drought,-0.199260996,29.1,8.056129446,0.709929182
+Erigeron acris,Senecio jacobaea,Native,Drought,-0.07819221,28.1,NA,NA
+Erigeron acris,Solidago canadensis,Native,Drought,-0.180997749,3.75,16.71649168,0.763086932
+Erigeron acris,Solidago virgaurea,Native,Drought,0.155399193,4.05,10.50172241,0.750779312
+Matricaria chamomilla,Erigeron acris,Native,Drought,-3.061863938,17.85,14.3322885,0.600600542
+Matricaria chamomilla,Erigeron annuus,Native,Drought,-1.509519129,17.05,11.91646835,0.704917234
+Matricaria chamomilla,Matricaria discoidea,Native,Drought,-0.850091465,1.4,14.46802445,0.621952698
+Matricaria chamomilla,Senecio inaequidens,Native,Drought,-2.642566091,11.75,8.056129446,0.709929182
+Matricaria chamomilla,Senecio jacobaea,Native,Drought,0.270676306,12.75,NA,NA
+Matricaria chamomilla,Solidago canadensis,Native,Drought,-1.434703075,21.6,16.71649168,0.763086932
+Matricaria chamomilla,Solidago virgaurea,Native,Drought,-3.616154704,21.9,10.50172241,0.750779312
+Senecio jacobaea,Erigeron acris,Native,Drought,-5.491028998,28.1,14.3322885,0.600600542
+Senecio jacobaea,Erigeron annuus,Native,Drought,-2.541461677,27.3,11.91646835,0.704917234
+Senecio jacobaea,Matricaria chamomilla,Native,Drought,-0.538083992,12.75,30.02954322,0.627773556
+Senecio jacobaea,Matricaria discoidea,Native,Drought,-2.308330617,14.15,14.46802445,0.621952698
+Senecio jacobaea,Senecio inaequidens,Native,Drought,-1.869205193,1,8.056129446,0.709929182
+Senecio jacobaea,Solidago canadensis,Native,Drought,-2.18872369,32.35,16.71649168,0.763086932
+Senecio jacobaea,Solidago virgaurea,Native,Drought,-3.840465656,32.65,10.50172241,0.750779312
+Solidago virgaurea,Erigeron acris,Native,Drought,-0.293999672,4.05,14.3322885,0.600600542
+Solidago virgaurea,Erigeron annuus,Native,Drought,-0.280926346,4.85,11.91646835,0.704917234
+Solidago virgaurea,Matricaria chamomilla,Native,Drought,0.201168724,21.9,30.02954322,0.627773556
+Solidago virgaurea,Matricaria discoidea,Native,Drought,0.138103062,20.5,14.46802445,0.621952698
+Solidago virgaurea,Senecio inaequidens,Native,Drought,-0.553732797,33.5,8.056129446,0.709929182
+Solidago virgaurea,Senecio jacobaea,Native,Drought,0.372913549,32.65,NA,NA
+Solidago virgaurea,Solidago canadensis,Native,Drought,-0.516790081,0.3,16.71649168,0.763086932
+Erigeron acris,Erigeron annuus,Native,Flood,0.15507233,0.8,13.49861099,0.651992446
+Erigeron acris,Matricaria chamomilla,Native,Flood,0.199368482,17.85,35.48630891,0.660976263
+Erigeron acris,Matricaria discoidea,Native,Flood,0.161834134,16.45,29.26288968,0.634042689
+Erigeron acris,Senecio inaequidens,Native,Flood,0.140399915,29.1,11.16368599,0.734846703
+Erigeron acris,Senecio jacobaea,Native,Flood,0.051559345,28.1,NA,NA
+Erigeron acris,Solidago canadensis,Native,Flood,0.114088312,3.75,24.40051709,0.736622516
+Erigeron acris,Solidago virgaurea,Native,Flood,0.144504076,4.05,15.49849822,0.671233153
+Matricaria chamomilla,Erigeron acris,Native,Flood,-0.678606033,17.85,26.98789262,0.646870487
+Matricaria chamomilla,Erigeron annuus,Native,Flood,0.043265609,17.05,13.49861099,0.651992446
+Matricaria chamomilla,Matricaria discoidea,Native,Flood,-0.115708555,1.4,29.26288968,0.634042689
+Matricaria chamomilla,Senecio inaequidens,Native,Flood,-0.041984776,11.75,11.16368599,0.734846703
+Matricaria chamomilla,Senecio jacobaea,Native,Flood,-0.032342802,12.75,NA,NA
+Matricaria chamomilla,Solidago canadensis,Native,Flood,-0.087048105,21.6,24.40051709,0.736622516
+Matricaria chamomilla,Solidago virgaurea,Native,Flood,-0.368902825,21.9,15.49849822,0.671233153
+Senecio jacobaea,Erigeron acris,Native,Flood,-0.203692207,28.1,26.98789262,0.646870487
+Senecio jacobaea,Erigeron annuus,Native,Flood,0.170348886,27.3,13.49861099,0.651992446
+Senecio jacobaea,Matricaria chamomilla,Native,Flood,-0.06156553,12.75,35.48630891,0.660976263
+Senecio jacobaea,Matricaria discoidea,Native,Flood,-0.01643062,14.15,29.26288968,0.634042689
+Senecio jacobaea,Senecio inaequidens,Native,Flood,0.149264997,1,11.16368599,0.734846703
+Senecio jacobaea,Solidago canadensis,Native,Flood,-0.28696227,32.35,24.40051709,0.736622516
+Senecio jacobaea,Solidago virgaurea,Native,Flood,-0.089062195,32.65,15.49849822,0.671233153
+Solidago virgaurea,Erigeron acris,Native,Flood,0.115614282,4.05,26.98789262,0.646870487
+Solidago virgaurea,Erigeron annuus,Native,Flood,0.11470108,4.85,13.49861099,0.651992446
+Solidago virgaurea,Matricaria chamomilla,Native,Flood,0.238490145,21.9,35.48630891,0.660976263
+Solidago virgaurea,Matricaria discoidea,Native,Flood,0.160390459,20.5,29.26288968,0.634042689
+Solidago virgaurea,Senecio inaequidens,Native,Flood,-0.11542051,33.5,11.16368599,0.734846703
+Solidago virgaurea,Senecio jacobaea,Native,Flood,0.280761429,32.65,NA,NA
+Solidago virgaurea,Solidago canadensis,Native,Flood,0.162275402,0.3,24.40051709,0.736622516
+Erigeron acris,Erigeron annuus,Native,Drought + Flood,-0.012947738,0.8,27.38559806,0.665844384
+Erigeron acris,Matricaria chamomilla,Native,Drought + Flood,0.088216567,17.85,52.48708599,0.651976581
+Erigeron acris,Matricaria discoidea,Native,Drought + Flood,0.108430895,16.45,30.70239507,0.639489662
+Erigeron acris,Senecio inaequidens,Native,Drought + Flood,-0.604136236,29.1,19.67443886,0.726921727
+Erigeron acris,Senecio jacobaea,Native,Drought + Flood,-0.26526068,28.1,NA,NA
+Erigeron acris,Solidago canadensis,Native,Drought + Flood,0.024006736,3.75,38.34584305,0.751315331
+Erigeron acris,Solidago virgaurea,Native,Drought + Flood,0.018240444,4.05,18.88302622,0.650496593
+Matricaria chamomilla,Erigeron acris,Native,Drought + Flood,-0.141718223,17.85,13.87915759,0.590003058
+Matricaria chamomilla,Erigeron annuus,Native,Drought + Flood,-0.682915432,17.05,27.38559806,0.665844384
+Matricaria chamomilla,Matricaria discoidea,Native,Drought + Flood,-0.136624023,1.4,30.70239507,0.639489662
+Matricaria chamomilla,Senecio inaequidens,Native,Drought + Flood,-0.943117214,11.75,19.67443886,0.726921727
+Matricaria chamomilla,Senecio jacobaea,Native,Drought + Flood,-0.243313477,12.75,NA,NA
+Matricaria chamomilla,Solidago canadensis,Native,Drought + Flood,-0.128303268,21.6,38.34584305,0.751315331
+Matricaria chamomilla,Solidago virgaurea,Native,Drought + Flood,-0.372147195,21.9,18.88302622,0.650496593
+Senecio jacobaea,Erigeron acris,Native,Drought + Flood,1.416696637,28.1,13.87915759,0.590003058
+Senecio jacobaea,Erigeron annuus,Native,Drought + Flood,0.529899231,27.3,27.38559806,0.665844384
+Senecio jacobaea,Matricaria chamomilla,Native,Drought + Flood,1.574616116,12.75,52.48708599,0.651976581
+Senecio jacobaea,Matricaria discoidea,Native,Drought + Flood,1.326826745,14.15,30.70239507,0.639489662
+Senecio jacobaea,Senecio inaequidens,Native,Drought + Flood,-0.267203618,1,19.67443886,0.726921727
+Senecio jacobaea,Solidago canadensis,Native,Drought + Flood,0.613060653,32.35,38.34584305,0.751315331
+Senecio jacobaea,Solidago virgaurea,Native,Drought + Flood,0.34587211,32.65,18.88302622,0.650496593
+Solidago virgaurea,Erigeron acris,Native,Drought + Flood,0.062083561,4.05,13.87915759,0.590003058
+Solidago virgaurea,Erigeron annuus,Native,Drought + Flood,-0.607330923,4.85,27.38559806,0.665844384
+Solidago virgaurea,Matricaria chamomilla,Native,Drought + Flood,-0.391664171,21.9,52.48708599,0.651976581
+Solidago virgaurea,Matricaria discoidea,Native,Drought + Flood,0.14567095,20.5,30.70239507,0.639489662
+Solidago virgaurea,Senecio inaequidens,Native,Drought + Flood,-0.714875086,33.5,19.67443886,0.726921727
+Solidago virgaurea,Senecio jacobaea,Native,Drought + Flood,-0.103569029,32.65,NA,NA
+Solidago virgaurea,Solidago canadensis,Native,Drought + Flood,-0.060708382,0.3,38.34584305,0.751315331
+Erigeron annuus,Erigeron acris,Invasive,Control,0.255433686,0.8,17.77863656,0.643162771
+Erigeron annuus,Matricaria chamomilla,Invasive,Control,0.504694859,17.05,70.16694549,0.670831655
+Erigeron annuus,Matricaria discoidea,Invasive,Control,0.409836573,15.65,33.7684513,0.648016089
+Erigeron annuus,Senecio inaequidens,Invasive,Control,0.557574054,28.3,16.72420892,0.728764071
+Erigeron annuus,Senecio jacobaea,Invasive,Control,0.550633017,27.3,NA,NA
+Erigeron annuus,Solidago canadensis,Invasive,Control,0.558295806,4.55,19.7677409,0.75718047
+Erigeron annuus,Solidago virgaurea,Invasive,Control,-2.058014733,4.85,15.6856458,0.708487083
+Matricaria discoidea,Erigeron acris,Invasive,Control,-0.059256743,16.45,17.77863656,0.643162771
+Matricaria discoidea,Erigeron annuus,Invasive,Control,-0.2287741,15.65,21.71617689,0.709131972
+Matricaria discoidea,Matricaria chamomilla,Invasive,Control,-0.100615286,1.4,70.16694549,0.670831655
+Matricaria discoidea,Senecio inaequidens,Invasive,Control,-0.030454669,13.15,16.72420892,0.728764071
+Matricaria discoidea,Senecio jacobaea,Invasive,Control,-0.018519048,14.15,NA,NA
+Matricaria discoidea,Solidago canadensis,Invasive,Control,-0.110438359,20.2,19.7677409,0.75718047
+Matricaria discoidea,Solidago virgaurea,Invasive,Control,-1.504422452,20.5,15.6856458,0.708487083
+Senecio inaequidens,Erigeron acris,Invasive,Control,-0.225361226,29.1,17.77863656,0.643162771
+Senecio inaequidens,Erigeron annuus,Invasive,Control,-0.079871278,28.3,21.71617689,0.709131972
+Senecio inaequidens,Matricaria chamomilla,Invasive,Control,-0.042634956,11.75,70.16694549,0.670831655
+Senecio inaequidens,Matricaria discoidea,Invasive,Control,-0.058017594,13.15,33.7684513,0.648016089
+Senecio inaequidens,Senecio jacobaea,Invasive,Control,0.139426109,1,NA,NA
+Senecio inaequidens,Solidago canadensis,Invasive,Control,-0.121001378,33.2,19.7677409,0.75718047
+Senecio inaequidens,Solidago virgaurea,Invasive,Control,-2.363194954,33.5,15.6856458,0.708487083
+Solidago canadensis,Erigeron acris,Invasive,Control,-0.323653435,3.75,17.77863656,0.643162771
+Solidago canadensis,Erigeron annuus,Invasive,Control,0.080256127,4.55,21.71617689,0.709131972
+Solidago canadensis,Matricaria chamomilla,Invasive,Control,0.016111366,21.6,70.16694549,0.670831655
+Solidago canadensis,Matricaria discoidea,Invasive,Control,-0.080494293,20.2,33.7684513,0.648016089
+Solidago canadensis,Senecio inaequidens,Invasive,Control,0.023880409,33.2,16.72420892,0.728764071
+Solidago canadensis,Senecio jacobaea,Invasive,Control,0.023242821,32.35,NA,NA
+Solidago canadensis,Solidago virgaurea,Invasive,Control,-0.596727635,0.3,15.6856458,0.708487083
+Erigeron annuus,Erigeron acris,Invasive,Drought,0.006460359,0.8,14.3322885,0.600600542
+Erigeron annuus,Matricaria chamomilla,Invasive,Drought,1.145078342,17.05,30.02954322,0.627773556
+Erigeron annuus,Matricaria discoidea,Invasive,Drought,0.567274654,15.65,14.46802445,0.621952698
+Erigeron annuus,Senecio inaequidens,Invasive,Drought,-0.121884706,28.3,8.056129446,0.709929182
+Erigeron annuus,Senecio jacobaea,Invasive,Drought,1.469318398,27.3,NA,NA
+Erigeron annuus,Solidago canadensis,Invasive,Drought,-0.431475779,4.55,16.71649168,0.763086932
+Erigeron annuus,Solidago virgaurea,Invasive,Drought,-1.738553986,4.85,10.50172241,0.750779312
+Matricaria discoidea,Erigeron acris,Invasive,Drought,-1.468959381,16.45,14.3322885,0.600600542
+Matricaria discoidea,Erigeron annuus,Invasive,Drought,-0.343110993,15.65,11.91646835,0.704917234
+Matricaria discoidea,Matricaria chamomilla,Invasive,Drought,0.751204744,1.4,30.02954322,0.627773556
+Matricaria discoidea,Senecio inaequidens,Invasive,Drought,-0.004514638,13.15,8.056129446,0.709929182
+Matricaria discoidea,Senecio jacobaea,Invasive,Drought,0.693058721,14.15,NA,NA
+Matricaria discoidea,Solidago canadensis,Invasive,Drought,-0.261767905,20.2,16.71649168,0.763086932
+Matricaria discoidea,Solidago virgaurea,Invasive,Drought,-1.654372212,20.5,10.50172241,0.750779312
+Senecio inaequidens,Erigeron acris,Invasive,Drought,-0.264571595,29.1,14.3322885,0.600600542
+Senecio inaequidens,Erigeron annuus,Invasive,Drought,-0.803349045,28.3,11.91646835,0.704917234
+Senecio inaequidens,Matricaria chamomilla,Invasive,Drought,1.568273387,11.75,30.02954322,0.627773556
+Senecio inaequidens,Matricaria discoidea,Invasive,Drought,-0.418120306,13.15,14.46802445,0.621952698
+Senecio inaequidens,Senecio jacobaea,Invasive,Drought,1.605131854,1,NA,NA
+Senecio inaequidens,Solidago canadensis,Invasive,Drought,0.149879106,33.2,16.71649168,0.763086932
+Senecio inaequidens,Solidago virgaurea,Invasive,Drought,-3.563404805,33.5,10.50172241,0.750779312
+Solidago canadensis,Erigeron acris,Invasive,Drought,0.110527922,3.75,14.3322885,0.600600542
+Solidago canadensis,Erigeron annuus,Invasive,Drought,0.179954538,4.55,11.91646835,0.704917234
+Solidago canadensis,Matricaria chamomilla,Invasive,Drought,0.136958474,21.6,30.02954322,0.627773556
+Solidago canadensis,Matricaria discoidea,Invasive,Drought,0.411561517,20.2,14.46802445,0.621952698
+Solidago canadensis,Senecio inaequidens,Invasive,Drought,-0.2797252,33.2,8.056129446,0.709929182
+Solidago canadensis,Senecio jacobaea,Invasive,Drought,1.008524595,32.35,NA,NA
+Solidago canadensis,Solidago virgaurea,Invasive,Drought,0.433873958,0.3,10.50172241,0.750779312
+Erigeron annuus,Erigeron acris,Invasive,Flood,-0.856228913,0.8,26.98789262,0.646870487
+Erigeron annuus,Matricaria chamomilla,Invasive,Flood,0.039990367,17.05,35.48630891,0.660976263
+Erigeron annuus,Matricaria discoidea,Invasive,Flood,0.398115844,15.65,29.26288968,0.634042689
+Erigeron annuus,Senecio inaequidens,Invasive,Flood,0.098823759,28.3,11.16368599,0.734846703
+Erigeron annuus,Senecio jacobaea,Invasive,Flood,0.290294033,27.3,NA,NA
+Erigeron annuus,Solidago canadensis,Invasive,Flood,0.047997461,4.55,24.40051709,0.736622516
+Erigeron annuus,Solidago virgaurea,Invasive,Flood,-0.222246037,4.85,15.49849822,0.671233153
+Matricaria discoidea,Erigeron acris,Invasive,Flood,-0.837262565,16.45,26.98789262,0.646870487
+Matricaria discoidea,Erigeron annuus,Invasive,Flood,-0.018619118,15.65,13.49861099,0.651992446
+Matricaria discoidea,Matricaria chamomilla,Invasive,Flood,-0.001518993,1.4,35.48630891,0.660976263
+Matricaria discoidea,Senecio inaequidens,Invasive,Flood,-0.070163495,13.15,11.16368599,0.734846703
+Matricaria discoidea,Senecio jacobaea,Invasive,Flood,-0.071786115,14.15,NA,NA
+Matricaria discoidea,Solidago canadensis,Invasive,Flood,-0.073545439,20.2,24.40051709,0.736622516
+Matricaria discoidea,Solidago virgaurea,Invasive,Flood,-0.223910003,20.5,15.49849822,0.671233153
+Senecio inaequidens,Erigeron acris,Invasive,Flood,-0.56495078,29.1,26.98789262,0.646870487
+Senecio inaequidens,Erigeron annuus,Invasive,Flood,-0.072454153,28.3,13.49861099,0.651992446
+Senecio inaequidens,Matricaria chamomilla,Invasive,Flood,-0.135664692,11.75,35.48630891,0.660976263
+Senecio inaequidens,Matricaria discoidea,Invasive,Flood,-0.036533475,13.15,29.26288968,0.634042689
+Senecio inaequidens,Senecio jacobaea,Invasive,Flood,-0.024338232,1,NA,NA
+Senecio inaequidens,Solidago canadensis,Invasive,Flood,-0.867105438,33.2,24.40051709,0.736622516
+Senecio inaequidens,Solidago virgaurea,Invasive,Flood,-0.446341198,33.5,15.49849822,0.671233153
+Solidago canadensis,Erigeron acris,Invasive,Flood,-0.550627986,3.75,26.98789262,0.646870487
+Solidago canadensis,Erigeron annuus,Invasive,Flood,0.154515788,4.55,13.49861099,0.651992446
+Solidago canadensis,Matricaria chamomilla,Invasive,Flood,0.184144002,21.6,35.48630891,0.660976263
+Solidago canadensis,Matricaria discoidea,Invasive,Flood,0.138348822,20.2,29.26288968,0.634042689
+Solidago canadensis,Senecio inaequidens,Invasive,Flood,0.044675321,33.2,11.16368599,0.734846703
+Solidago canadensis,Senecio jacobaea,Invasive,Flood,0.179013903,32.35,NA,NA
+Solidago canadensis,Solidago virgaurea,Invasive,Flood,0.027930279,0.3,15.49849822,0.671233153
+Erigeron annuus,Erigeron acris,Invasive,Drought + Flood,0.127092991,0.8,13.87915759,0.590003058
+Erigeron annuus,Matricaria chamomilla,Invasive,Drought + Flood,0.391475409,17.05,52.48708599,0.651976581
+Erigeron annuus,Matricaria discoidea,Invasive,Drought + Flood,0.526034845,15.65,30.70239507,0.639489662
+Erigeron annuus,Senecio inaequidens,Invasive,Drought + Flood,-0.938647193,28.3,19.67443886,0.726921727
+Erigeron annuus,Senecio jacobaea,Invasive,Drought + Flood,-0.16279143,27.3,NA,NA
+Erigeron annuus,Solidago canadensis,Invasive,Drought + Flood,0.249918228,4.55,38.34584305,0.751315331
+Erigeron annuus,Solidago virgaurea,Invasive,Drought + Flood,-0.641303452,4.85,18.88302622,0.650496593
+Matricaria discoidea,Erigeron acris,Invasive,Drought + Flood,-0.102050024,16.45,13.87915759,0.590003058
+Matricaria discoidea,Erigeron annuus,Invasive,Drought + Flood,-0.363385855,15.65,27.38559806,0.665844384
+Matricaria discoidea,Matricaria chamomilla,Invasive,Drought + Flood,0.076630147,1.4,52.48708599,0.651976581
+Matricaria discoidea,Senecio inaequidens,Invasive,Drought + Flood,-0.678759994,13.15,19.67443886,0.726921727
+Matricaria discoidea,Senecio jacobaea,Invasive,Drought + Flood,-0.389974948,14.15,NA,NA
+Matricaria discoidea,Solidago canadensis,Invasive,Drought + Flood,0.057751703,20.2,38.34584305,0.751315331
+Matricaria discoidea,Solidago virgaurea,Invasive,Drought + Flood,-0.742585517,20.5,18.88302622,0.650496593
+Senecio inaequidens,Erigeron acris,Invasive,Drought + Flood,1.785159079,29.1,13.87915759,0.590003058
+Senecio inaequidens,Erigeron annuus,Invasive,Drought + Flood,1.183248507,28.3,27.38559806,0.665844384
+Senecio inaequidens,Matricaria chamomilla,Invasive,Drought + Flood,1.786555603,11.75,52.48708599,0.651976581
+Senecio inaequidens,Matricaria discoidea,Invasive,Drought + Flood,1.997112689,13.15,30.70239507,0.639489662
+Senecio inaequidens,Senecio jacobaea,Invasive,Drought + Flood,1.528422881,1,NA,NA
+Senecio inaequidens,Solidago canadensis,Invasive,Drought + Flood,1.670421784,33.2,38.34584305,0.751315331
+Senecio inaequidens,Solidago virgaurea,Invasive,Drought + Flood,1.569473292,33.5,18.88302622,0.650496593
+Solidago canadensis,Erigeron acris,Invasive,Drought + Flood,-0.225468766,3.75,13.87915759,0.590003058
+Solidago canadensis,Erigeron annuus,Invasive,Drought + Flood,-0.113188408,4.55,27.38559806,0.665844384
+Solidago canadensis,Matricaria chamomilla,Invasive,Drought + Flood,0.087456592,21.6,52.48708599,0.651976581
+Solidago canadensis,Matricaria discoidea,Invasive,Drought + Flood,0.072955049,20.2,30.70239507,0.639489662
+Solidago canadensis,Senecio inaequidens,Invasive,Drought + Flood,-0.325044396,33.2,19.67443886,0.726921727
+Solidago canadensis,Senecio jacobaea,Invasive,Drought + Flood,-0.035060271,32.35,NA,NA
+Solidago canadensis,Solidago virgaurea,Invasive,Drought + Flood,0.105497283,0.3,18.88302622,0.650496593
